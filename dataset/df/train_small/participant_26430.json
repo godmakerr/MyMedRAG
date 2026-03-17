@@ -1,0 +1,10 @@
+{
+    "AGE": 50,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Anaphylaxis', 0.11629761966491606], ['Acute pulmonary edema', 0.09319943530782923], ['Scombroid food poisoning', 0.0890541730946006], ['Boerhaave', 0.08138343361115241], ['Anemia', 0.08124282625270964], ['Panic attack', 0.07472798219920106], ['PSVT', 0.06750209130766896], ['Guillain-Barr\u00e9 syndrome', 0.06351496246492419], ['Chagas', 0.06297038621721732], ['Atrial fibrillation', 0.060668274701865435], ['Pancreatic neoplasm', 0.053351433041923864], ['Acute dystonic reactions', 0.044727895876417706], ['Myasthenia gravis', 0.044727895876417706], ['Pulmonary embolism', 0.03432045885275218], ['HIV (initial infection)', 0.03231113153040378]]",
+    "SEX": "M",
+    "PATHOLOGY": "Anaphylaxis",
+    "EVIDENCES": "['E_12', 'E_51', 'E_53', 'E_54_@_V_179', 'E_54_@_V_182', 'E_54_@_V_192', 'E_55_@_V_84', 'E_55_@_V_103', 'E_55_@_V_104', 'E_55_@_V_153', 'E_56_@_5', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_2', 'E_66', 'E_82', 'E_129', 'E_130_@_V_156', 'E_131_@_V_10', 'E_132_@_3', 'E_133_@_V_26', 'E_133_@_V_30', 'E_133_@_V_31', 'E_133_@_V_33', 'E_133_@_V_34', 'E_134_@_0', 'E_135_@_V_12', 'E_136_@_7', 'E_148', 'E_151', 'E_152_@_V_89', 'E_152_@_V_108', 'E_152_@_V_109', 'E_152_@_V_122', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_82",
+    "Participant No.": "train_26430",
+    "Processed Diagnosis": "Anaphylaxis"
+}

@@ -1,0 +1,10 @@
+{
+    "AGE": 64,
+    "DIFFERENTIAL_DIAGNOSIS": "[['HIV (initial infection)', 0.46321158429834847], ['Chagas', 0.2607359197574163], ['URTI', 0.18305651606882983], ['Scombroid food poisoning', 0.07041372665753104], ['Sarcoidosis', 0.022582253217874302]]",
+    "SEX": "M",
+    "PATHOLOGY": "HIV (initial infection)",
+    "EVIDENCES": "['E_9', 'E_53', 'E_54_@_V_154', 'E_54_@_V_161', 'E_54_@_V_198', 'E_55_@_V_89', 'E_55_@_V_124', 'E_55_@_V_166', 'E_56_@_3', 'E_57_@_V_123', 'E_58_@_2', 'E_59_@_6', 'E_91', 'E_97', 'E_115', 'E_129', 'E_130_@_V_138', 'E_131_@_V_10', 'E_132_@_2', 'E_133_@_V_90', 'E_133_@_V_91', 'E_133_@_V_95', 'E_133_@_V_96', 'E_133_@_V_110', 'E_134_@_4', 'E_135_@_V_12', 'E_136_@_0', 'E_144', 'E_148', 'E_162', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_148",
+    "Participant No.": "train_26419",
+    "Processed Diagnosis": "HIV (initial infection)"
+}

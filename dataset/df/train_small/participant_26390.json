@@ -1,0 +1,10 @@
+{
+    "AGE": 60,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Panic attack', 0.10901858939407578], ['Guillain-Barr\u00e9 syndrome', 0.09031804971447706], ['Acute pulmonary edema', 0.07457888231015243], ['Atrial fibrillation', 0.07416090422503703], ['Boerhaave', 0.0642653924087939], ['PSVT', 0.062325901136714074], ['Possible NSTEMI / STEMI', 0.06172340960672466], ['Pulmonary embolism', 0.058424339110356105], ['Anaphylaxis', 0.057935329087533544], ['GERD', 0.04978206311765921], ['Inguinal hernia', 0.04816959315667075], ['Scombroid food poisoning', 0.04794243300950505], ['Acute dystonic reactions', 0.03917696156566985], ['Myasthenia gravis', 0.03917696156566985], ['Anemia', 0.03917696156566985], ['HIV (initial infection)', 0.036122975330242994], ['Chagas', 0.029564190610203028], ['SLE', 0.018137063084844952]]",
+    "SEX": "F",
+    "PATHOLOGY": "Panic attack",
+    "EVIDENCES": "['E_50', 'E_53', 'E_54_@_V_182', 'E_55_@_V_84', 'E_55_@_V_87', 'E_55_@_V_88', 'E_55_@_V_103', 'E_55_@_V_153', 'E_56_@_8', 'E_57_@_V_123', 'E_58_@_7', 'E_59_@_10', 'E_66', 'E_78', 'E_80', 'E_81', 'E_99', 'E_111', 'E_124', 'E_138', 'E_148', 'E_155', 'E_157', 'E_171', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_66",
+    "Participant No.": "train_26390",
+    "Processed Diagnosis": "Panic attack"
+}

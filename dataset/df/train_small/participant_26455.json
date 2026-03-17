@@ -1,0 +1,10 @@
+{
+    "AGE": 21,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Scombroid food poisoning', 0.2863602203176595], ['PSVT', 0.22109698732608685], ['Anaphylaxis', 0.17830994639668013], ['Anemia', 0.09253969764174381], ['HIV (initial infection)', 0.08250653720220327], ['Panic attack', 0.07546226865702571], ['Chagas', 0.06372434245860072]]",
+    "SEX": "M",
+    "PATHOLOGY": "Scombroid food poisoning",
+    "EVIDENCES": "['E_82', 'E_92', 'E_129', 'E_130_@_V_156', 'E_131_@_V_10', 'E_132_@_6', 'E_133_@_V_26', 'E_133_@_V_30', 'E_133_@_V_32', 'E_133_@_V_33', 'E_133_@_V_34', 'E_134_@_3', 'E_135_@_V_12', 'E_136_@_8', 'E_148', 'E_155', 'E_187', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_148",
+    "Participant No.": "train_26455",
+    "Processed Diagnosis": "Scombroid food poisoning"
+}

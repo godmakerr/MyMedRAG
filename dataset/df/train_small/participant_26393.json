@@ -1,0 +1,10 @@
+{
+    "AGE": 21,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Anaphylaxis', 0.07914658572693821], ['Bronchospasm / acute asthma exacerbation', 0.0683866795181446], ['Panic attack', 0.06675527897142011], ['Acute pulmonary edema', 0.06340869953956087], ['Scombroid food poisoning', 0.058433602839273444], ['Unstable angina', 0.057498190720974854], ['Pancreatic neoplasm', 0.05737596228679663], ['GERD', 0.0552830394858479], ['Anemia', 0.054093147624196806], ['Stable angina', 0.05124015444455465], ['Possible NSTEMI / STEMI', 0.050168686796662566], ['PSVT', 0.04494428318741517], ['Pericarditis', 0.044778931349044926], ['Guillain-Barr\u00e9 syndrome', 0.042289570654195134], ['Atrial fibrillation', 0.04039418728916854], ['Myocarditis', 0.039892068914117444], ['Chagas', 0.03448371388953179], ['Pulmonary embolism', 0.03186570749026359], ['Acute dystonic reactions', 0.029780754635946358], ['Myasthenia gravis', 0.029780754635946358]]",
+    "SEX": "M",
+    "PATHOLOGY": "Anaphylaxis",
+    "EVIDENCES": "['E_51', 'E_53', 'E_54_@_V_179', 'E_54_@_V_182', 'E_55_@_V_84', 'E_55_@_V_85', 'E_55_@_V_104', 'E_55_@_V_153', 'E_55_@_V_197', 'E_56_@_8', 'E_57_@_V_123', 'E_58_@_0', 'E_59_@_4', 'E_66', 'E_82', 'E_129', 'E_130_@_V_156', 'E_131_@_V_10', 'E_132_@_6', 'E_133_@_V_26', 'E_133_@_V_30', 'E_133_@_V_32', 'E_133_@_V_33', 'E_133_@_V_35', 'E_134_@_1', 'E_135_@_V_12', 'E_136_@_10', 'E_151', 'E_152_@_V_89', 'E_152_@_V_108', 'E_152_@_V_109', 'E_204_@_V_10', 'E_214', 'E_226']",
+    "INITIAL_EVIDENCE": "E_51",
+    "Participant No.": "train_26393",
+    "Processed Diagnosis": "Anaphylaxis"
+}

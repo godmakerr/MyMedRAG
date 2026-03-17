@@ -1,0 +1,10 @@
+{
+    "AGE": 28,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Unstable angina', 0.32453425744095565], ['Stable angina', 0.28987891504826574], ['Possible NSTEMI / STEMI', 0.2377776991897974], ['Pericarditis', 0.14780912832098114]]",
+    "SEX": "F",
+    "PATHOLOGY": "Stable angina",
+    "EVIDENCES": "['E_53', 'E_54_@_V_183', 'E_55_@_V_29', 'E_55_@_V_55', 'E_55_@_V_101', 'E_55_@_V_128', 'E_55_@_V_171', 'E_56_@_9', 'E_57_@_V_30', 'E_57_@_V_31', 'E_57_@_V_33', 'E_57_@_V_194', 'E_57_@_V_195', 'E_58_@_5', 'E_59_@_8', 'E_70', 'E_71', 'E_79', 'E_105', 'E_143', 'E_204_@_V_10', 'E_218', 'E_225']",
+    "INITIAL_EVIDENCE": "E_218",
+    "Participant No.": "train_26394",
+    "Processed Diagnosis": "Stable angina"
+}

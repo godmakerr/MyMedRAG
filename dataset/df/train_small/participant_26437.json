@@ -1,0 +1,10 @@
+{
+    "AGE": 77,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.2727099746849252], ['Acute COPD exacerbation / infection', 0.19862406006509664], ['Bronchospasm / acute asthma exacerbation', 0.18478266215115263], ['Bronchiectasis', 0.17470831086611224], ['Pneumonia', 0.1691749922327132]]",
+    "SEX": "F",
+    "PATHOLOGY": "Acute COPD exacerbation / infection",
+    "EVIDENCES": "['E_31', 'E_72', 'E_77', 'E_125', 'E_199', 'E_200', 'E_201', 'E_204_@_V_10', 'E_214']",
+    "INITIAL_EVIDENCE": "E_201",
+    "Participant No.": "train_26437",
+    "Processed Diagnosis": "Acute COPD exacerbation / infection"
+}

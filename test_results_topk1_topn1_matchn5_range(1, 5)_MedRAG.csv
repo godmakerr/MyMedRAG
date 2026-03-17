@@ -1,0 +1,107 @@
+Participant No.,Generated Diagnosis,True Diagnosis,Ori Truth,Generated report
+test_1,GERD,GERD,GERD,"### Diagnoses
+1. **Diagnosis**: GERD
+2. **Explanations of diagnose**: Gastroesophageal reflux disease (GERD) is a chronic condition where stomach acid or, occasionally, bile flows back (refluxes) into your esophagus. This backwash (acid reflux) can irritate the lining of your esophagus. The symptoms were evidenced by a range of medically coded evidence suggesting chronic reflux and related signs.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Educating about lifestyle modifications such as positioning, dietary changes, and weight management.
+    - **Goals**: To reduce symptoms frequency and intensity and improve esophageal clearance.
+    - **Exercises**: Breathing exercises, relaxation techniques.
+    - **Manual Therapy**: Thoracic spine mobilizations to improve posture.
+    - **Techniques**: Diaphragmatic breathing, postural training.
+
+2. **Exercise Recommendations from the Exercise List**: Recommend gentle yoga postures that focus on the upper back and torso, pilates for core strengthening, and guided relaxation exercises.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Consider prescribing medications like proton pump inhibitors (PPIs) or H2 receptor blockers to manage acid production.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Upper endoscopy to assess esophagus condition and evaluate any complications of GERD."
+test_2,Bronchitis,Bronchitis,Bronchitis,"### Diagnoses
+1. **Diagnosis**: Bronchitis
+
+2. **Explanations of diagnose**: 
+   - The patient's symptoms and retrieved differential diagnosis suggest a high likelihood of bronchitis. Bronchitis is commonly characterized by inflammation of the bronchial tubes, often leading to cough, production of mucous, and difficulty breathing. It is especially common in young children.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Breathing exercises to aid in reducing dyspnea and ensuring proper breathing patterns.
+    - **Goals**: Enhance airway clearance, improve respiratory function, and prevent complications.
+    - **Exercises**: Deep breathing exercises, Controlled cough techniques, Chest physiotherapy.
+    - **Manual Therapy**: Gentle chest mobilizations to promote airway clearance.
+    - **Techniques**: Use of incentive spirometry.
+
+2. **Exercise Recommendations from the Exercise List**: Gentle age-appropriate respiratory exercises focusing on increasing lung expansion and air passage.
+
+### Pain Psychologist Treatments
+Not applicable
+
+### Pain Medicine Treatments
+- Consider the use of bronchodilators if there are signs of bronchospasm. 
+- Antipyretics like acetaminophen or ibuprofen can be used for fever or discomfort.
+- Ensure adequate hydration to help thin mucous secretions.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider a pediatric evaluation to rule out other conditions on the differential diagnosis list, such as influenza or viral pharyngitis. Further investigation may include listening to lung sounds and possibly imaging if symptoms do not improve."
+test_3,Acute dystonic reactions,Acute dystonic reactions,Acute dystonic reactions,"### Diagnoses
+1. **Diagnosis**: Acute dystonic reactions.
+
+2. **Explanations of diagnose**: Acute dystonic reactions can be characterized by involuntary muscle contractions or spasms that result in abnormal postures or movements. This pathology is often related to medication side effects, particularly involving antipsychotic or anti-nausea drugs. The retrieved similar patient cases and knowledge graph information suggest a likelihood for these symptoms, as the provided evidence and initial symptoms aligned with such reactions.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Stretching and relaxation techniques to alleviate muscle spasms.
+   - **Goals**: Reduce muscle contractions and improve normal muscle tone.
+   - **Exercises**: Gentle neck and shoulder exercises, progressive relaxation techniques.
+   - **Manual Therapy**: Soft tissue massage to relieve tension.
+   - **Techniques**: Application of heat to relax tight muscles, TENS (Transcutaneous Electrical Nerve Stimulation) for pain relief.
+
+2. **Exercise Recommendations from the Exercise List**: Gentle stretching routines focused on affected muscle groups.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Short-term administration of medications like anticholinergics (e.g., benztropine or diphenhydramine) to manage dystonic reactions.
+- Review and adjustment of any current medications potentially causing symptoms under medical guidance.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Detailed medication review to identify potential drug-induced causes of dystonic reactions."
+test_4,Acute laryngitis,Acute laryngitis,Acute laryngitis,"    ### Diagnoses
+    1. **Diagnosis**: Acute laryngitis.
+    2. **Explanations of diagnose**: Acute laryngitis is an inflammation of the voice box (larynx) often caused by vocal strain, infections, or irritants. It is frequently associated with vocal changes, such as hoarseness or temporary voice loss. Symptoms may include sore throat, dry throat, coughing, or a sensation of a bump in the throat. In this case, the differential diagnosis included conditions such as bronchitis, tuberculosis, viral pharyngitis, and influenza, all of which would present with overlapping symptoms like cough and throat discomfort. However, the inflammation localized to the larynx, without lower respiratory tract symptoms or significant systemic involvement, supports the acute laryngitis diagnosis.
+
+    ### Instructive question
+    1. **Questions**: Pain restriction; Location; Symptom.
+
+    ### Pain/General Physiotherapist Treatments
+    1. **Session No.: General Overview**
+        - **Specific interventions/treatments**: Voice rest, hydration, and avoidance of irritants, such as smoking or dry environments, are recommended. Steam inhalation and throat lozenges may help soothe the larynx.
+        - **Goals**: Reduce inflammation, restore normal voice function, and prevent further irritation or strain.
+        - **Exercises**: Gentle vocal exercises may be introduced gradually as symptoms improve.
+        - **Manual Therapy**: Not typically applicable for acute laryngitis.
+        - **Techniques**: Hydration techniques, steam inhalation, and controlled breathing exercises.
+
+    2. **Exercise Recommendations from the Exercise List**: Progressive vocal exercises under supervision as recovery progresses.
+
+    ### Pain Psychologist Treatments(if applicable)
+    Not applicable
+
+    ### Pain Medicine Treatments
+    Analgesics or anti-inflammatory medications (e.g., ibuprofen) to relieve throat pain and discomfort.
+
+    ### Recommendations for Further Evaluations
+    1. **Evaluation 1**: If symptoms persist or worsen, consider further evaluation for underlying causes such as acid reflux or more serious infections, particularly if there are signs of airway obstruction or systemic illness."

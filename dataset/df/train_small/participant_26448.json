@@ -1,0 +1,10 @@
+{
+    "AGE": 25,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Unstable angina', 0.20588504181617148], ['Stable angina', 0.13992222311983948], ['GERD', 0.12147483803892946], ['Possible NSTEMI / STEMI', 0.11910073994407956], ['Pancreatic neoplasm', 0.10715523758057852], ['Anemia', 0.0807882688820764], ['Pericarditis', 0.0740362810032339], ['Atrial fibrillation', 0.05818506712484815], ['Chagas', 0.051103189818171794], ['Spontaneous pneumothorax', 0.042349112672071275]]",
+    "SEX": "M",
+    "PATHOLOGY": "Unstable angina",
+    "EVIDENCES": "['E_13', 'E_14', 'E_53', 'E_54_@_V_198', 'E_55_@_V_29', 'E_55_@_V_101', 'E_55_@_V_159', 'E_55_@_V_160', 'E_55_@_V_197', 'E_56_@_6', 'E_57_@_V_31', 'E_57_@_V_33', 'E_57_@_V_39', 'E_57_@_V_174', 'E_57_@_V_194', 'E_58_@_8', 'E_59_@_9', 'E_69', 'E_70', 'E_71', 'E_78', 'E_79', 'E_89', 'E_105', 'E_204_@_V_10', 'E_218']",
+    "INITIAL_EVIDENCE": "E_14",
+    "Participant No.": "train_26448",
+    "Processed Diagnosis": "Unstable angina"
+}

@@ -1,0 +1,10 @@
+{
+    "AGE": 43,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Pneumonia', 0.06726866117832338], ['Bronchitis', 0.06142999368504975], ['Pulmonary neoplasm', 0.05914793546394372], ['Bronchiectasis', 0.05484258184157331], ['GERD', 0.05237051429009019], ['Influenza', 0.05169243619223673], ['Panic attack', 0.050116823225524854], ['Possible NSTEMI / STEMI', 0.05000824043082364], ['Unstable angina', 0.04973961544703538], ['HIV (initial infection)', 0.048471633803292176], ['Acute COPD exacerbation / infection', 0.04655452872154716], ['Tuberculosis', 0.044650966328734415], ['Stable angina', 0.044146392875292206], ['Pericarditis', 0.03920232287287526], ['Boerhaave', 0.037424107865548305], ['Myocarditis', 0.03640309169665194], ['Bronchospasm / acute asthma exacerbation', 0.03233458887949193], ['Atrial fibrillation', 0.03182659591507406], ['Scombroid food poisoning', 0.03087265535323644], ['Guillain-Barr\u00e9 syndrome', 0.023464268189358654], ['Acute dystonic reactions', 0.023464268189358654], ['Myasthenia gravis', 0.023464268189358654], ['Chagas', 0.01770688868038717], ['PSVT', 0.012533784585032485], ['SLE', 0.010862836100159472]]",
+    "SEX": "F",
+    "PATHOLOGY": "Pneumonia",
+    "EVIDENCES": "['E_53', 'E_54_@_V_179', 'E_55_@_V_29', 'E_55_@_V_56', 'E_55_@_V_171', 'E_56_@_4', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_3', 'E_66', 'E_77', 'E_78', 'E_79', 'E_91', 'E_94', 'E_95', 'E_106', 'E_118', 'E_124', 'E_129', 'E_130_@_V_156', 'E_131_@_V_12', 'E_132_@_4', 'E_133_@_V_170', 'E_133_@_V_195', 'E_134_@_5', 'E_135_@_V_10', 'E_136_@_2', 'E_144', 'E_196', 'E_201', 'E_204_@_V_10', 'E_208', 'E_209', 'E_219']",
+    "INITIAL_EVIDENCE": "E_91",
+    "Participant No.": "train_26456",
+    "Processed Diagnosis": "Pneumonia"
+}

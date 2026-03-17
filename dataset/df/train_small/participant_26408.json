@@ -1,0 +1,10 @@
+{
+    "AGE": 13,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Scombroid food poisoning', 0.17468181604987795], ['Atrial fibrillation', 0.13467175805189924], ['PSVT', 0.1131801016446676], ['Pulmonary embolism', 0.10609509880214871], ['Anaphylaxis', 0.10323015476269945], ['Guillain-Barr\u00e9 syndrome', 0.10102522846154269], ['Acute dystonic reactions', 0.07114301456156243], ['Myasthenia gravis', 0.07114301456156243], ['Anemia', 0.07114301456156243], ['Chagas', 0.05368679854247699]]",
+    "SEX": "F",
+    "PATHOLOGY": "Scombroid food poisoning",
+    "EVIDENCES": "['E_66', 'E_92', 'E_129', 'E_130_@_V_156', 'E_131_@_V_10', 'E_132_@_5', 'E_133_@_V_26', 'E_133_@_V_30', 'E_133_@_V_32', 'E_133_@_V_33', 'E_133_@_V_34', 'E_134_@_1', 'E_135_@_V_12', 'E_136_@_6', 'E_148', 'E_155', 'E_187', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_92",
+    "Participant No.": "train_26408",
+    "Processed Diagnosis": "Scombroid food poisoning"
+}

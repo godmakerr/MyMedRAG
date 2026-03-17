@@ -1,0 +1,10 @@
+{
+    "AGE": 11,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Boerhaave', 1.0]]",
+    "SEX": "F",
+    "PATHOLOGY": "Boerhaave",
+    "EVIDENCES": "['E_53', 'E_54_@_V_71', 'E_54_@_V_112', 'E_54_@_V_179', 'E_54_@_V_191', 'E_55_@_V_29', 'E_55_@_V_85', 'E_55_@_V_101', 'E_55_@_V_103', 'E_55_@_V_187', 'E_56_@_6', 'E_57_@_V_39', 'E_57_@_V_127', 'E_57_@_V_128', 'E_58_@_6', 'E_59_@_10', 'E_204_@_V_10', 'E_210', 'E_211']",
+    "INITIAL_EVIDENCE": "E_211",
+    "Participant No.": "train_26423",
+    "Processed Diagnosis": "Boerhaave"
+}

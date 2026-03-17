@@ -1,0 +1,1421 @@
+Participant No.,Generated Diagnosis,True Diagnosis,Ori Truth,Report
+test_1000,PSVT,PSVT,PSVT,"### Diagnoses
+1. **Diagnosis**: PSVT
+
+2. **Explanations of diagnose**: PSVT (Paroxysmal Supraventricular Tachycardia) is characterized by episodes of rapid heart rate originating above the heart's ventricles. It is a form of supraventricular tachycardia, which implies it affects the electrical conduction pathway of the heart and causes palpitations, rapid pulse rate, dizziness, and sometimes chest discomfort. Its diagnosis stems from the evidence of episodes resembling PSVT and the associated symptoms in the knowledge graph, such as those included in cases with atrial fibrillation and acute pulmonary conditions but primarily overlapping more with PSVT indicators from the KARE Knowledge Graph.
+
+### Instructive question
+1. **Questions**: Pain restriction; Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Cardiac-focused aerobic exercises to enhance heart rate control and promote cardiovascular health.
+   - **Goals**: Improve cardiorespiratory fitness and decrease frequency and severity of PSVT episodes.
+   - **Exercises**: Mild to moderate intensity aerobic activities such as walking or cycling (under guidance).
+   - **Manual Therapy**: Not typically applicable for PSVT.
+   - **Techniques**: Breathing exercises and vagal maneuvers to manage episodes of rapid heart rate.
+
+2. **Exercise Recommendations from the Exercise List**: Regular, low-impact aerobic exercises, focusing on consistency and gradual progression in intensity.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Electrocardiogram (ECG) during an episode to confirm PSVT, and possibly an electrophysiological study for further insights."
+test_1001,Pulmonary embolism,Localized edema,Localized edema,"### Diagnoses
+1. **Diagnosis**: Pulmonary embolism.
+
+2. **Explanations of diagnose**: Based on the patient's current symptoms and evidence along with the differential diagnosis, pulmonary embolism has been identified as a plausible cause due to common associations with localized edema. This condition can manifest similar symptoms to localized edema and needs to be considered due to the overlap in symptomatology within the Knowledge Graph and the probability derived from the differential diagnosis. 
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Mobilization exercises for deep vein thrombosis (DVT) prevention.
+    - **Goals**: Reduce swelling, improve vascular circulation.
+    - **Exercises**: Lower limb lifting, ankle pumps.
+    - **Manual Therapy**: Not typically applicable given the potential risks of embolism movement.
+    - **Techniques**: Compression therapy as advised by vascular specialists.
+
+2. **Exercise Recommendations from the Exercise List**: Maintain mild activity to avoid clot formation. Regular movement as tolerated.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Anticoagulant medication: Regular scheduled assessments to ensure effective anticoagulation.
+- Monitoring and management of pain associated with swelling or embolism.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider imaging studies such as a CT angiogram or Doppler ultrasound to confirm pulmonary embolism."
+test_1002,Chronic rhinosinusitis,Chronic rhinosinusitis,Chronic rhinosinusitis,"### Diagnoses
+1. **Diagnosis**: Chronic rhinosinusitis.
+
+2. **Explanations of diagnose**: Chronic rhinosinusitis is a condition characterized by prolonged inflammation of the sinuses, leading to symptoms such as nasal congestion, facial pain, and sinus pressure. The participant's initial evidence and significant differential diagnosis emphasize chronic rhinosinusitis as the most probable condition, given the systematic evidence pattern and age-related factors. This aligns with the KARE Knowledge Graph Community which includes chronic rhinosinusitis and differentiates it from other similar upper respiratory conditions.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Myofascial release to alleviate facial tension, nasal irrigation, and warm compress application for sinus pressure relief.
+    - **Goals**: Reduce sinus inflammation, improve breathing, alleviate facial pain.
+    - **Exercises**: Breathing exercises to enhance airflow through nasal passages.
+    - **Manual Therapy**: Manual sinus drainage techniques to promote mucus clearance.
+    - **Techniques**: Soft tissue manipulation around the face and neck to reduce muscle tension.
+
+2. **Exercise Recommendations from the Exercise List**: Include daily nasal irrigation practice and gentle neck stretches to facilitate sinus drainage.
+
+### Pain Psychologist Treatments (if applicable)
+1. **Treatment 1**: Not applicable.
+
+### Pain Medicine Treatments
+- Antihistamines or nasal corticosteroids could be considered to manage chronic inflammation and reduce nasal congestion, guided by evidence-based practice in chronic sinusitis management.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider an in-depth ENT specialist evaluation to confirm the diagnosis via imaging or endoscopy, and to rule out any structural nasal passage issues contributing to chronic symptoms. This step is crucial to eliminate other differential diagnoses such as acute rhinosinusitis or bronchitis which frequently share symptomatology."
+test_1003,Stable angina,Stable angina,Stable angina,"### Diagnoses
+1. **Diagnosis**: Stable angina.
+
+2. **Explanations of diagnose**: Given the data, the diagnosis of stable angina is consistent with medical knowledge and the KARE Knowledge Graph clustering. This is supported by the presence of associated symptoms and evidence that align with stable angina. Additionally, the similarity of this patient's case with other cases of stable angina and related conditions like myocardial infarction (Possible NSTEMI/STEMI) in the retrievals from the Knowledge Graph clarifies this diagnosis. Stable angina is characterized by chest pain or discomfort that typically occurs with activity or stress due to reduced blood flow to the heart. It is a predictable pattern of symptoms that doesn't change over time.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Cardiac rehabilitation therapy focusing on aerobic exercises, warm-up and cool-down techniques to manage symptoms.
+   - **Goals**: Improve cardiovascular health, manage chest pain, enhance the patient's overall physical endurance and capacity, and reduce the risk of further cardiovascular events.
+   - **Exercises**: Low-impact aerobic exercises such as walking, cycling, or swimming, with adjusted intensity and duration as per patient tolerance.
+   - **Manual Therapy**: Not generally applicable but could include simple chest wall mobilization if tension present.
+   - **Techniques**: Breathing control techniques; pacing strategies to avoid overexertion.
+
+2. **Exercise Recommendations from the Exercise List**: Walking for 30 minutes most days, strength-training exercises twice a week to improve muscular endurance, stretching exercises for flexibility.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable.
+
+### Pain Medicine Treatments
+- Use of medications such as nitrates for acute episodes of angina pain, aspirin to reduce blood clotting risk, and possibly statins and beta-blockers to manage underlying cardiovascular risk and blood pressure.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider further cardiovascular assessments like stress tests or coronary angiograms to assess the extent of coronary artery disease and tailor more specific treatment options."
+test_1004,Chagas,Localized edema,Localized edema,"### Diagnoses
+1. **Diagnosis**: Chagas.
+2. **Explanations of diagnose**: Despite localized edema being the most prominent finding and previously processed diagnosis, Chagas disease is a possibility given the provided evidence and geographical prevalence. The knowledge graph also associates Chagas with symptoms overlapping edema. It’s critical, however, to consider if patient’s history or travel suggests exposure to endemic regions, which can substantiate this diagnosis. Additionally, there is past patient evidence of anaphylaxis that also manifests with localized edema, thus careful evaluation of potential allergens or reactions is warranted.
+
+### Instructive question
+1. **Questions**: Exposure to Chagas-endemic areas; Allergies or history of anaphylaxis; Symptom progression.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Assessment of swelling reduction techniques, limb elevation, compression garments.
+   - **Goals**: Reduce localized swelling, enhance lymphatic drainage.
+   - **Exercises**: Gentle range-of-motion exercises to promote circulation.
+   - **Manual Therapy**: Lymphatic drainage massage.
+   - **Techniques**: Cold therapy application to manage acute swelling.
+
+2. **Exercise Recommendations from the Exercise List**: Ankle pumps, knee-to-chest stretch.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Consider antihistamines if anaphylaxis is suspected.
+- Diuretics for fluid overload contributing to edema pending physician's approval.
+  
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider serological testing for Chagas disease if exposure risk is confirmed and assess for potential allergens causing edema if anaphylaxis is suspected."
+test_1005,Stable angina,Stable angina,Stable angina,"### Diagnoses
+1. **Diagnosis**: Stable angina.
+2. **Explanations of diagnose**: The patient's pathology aligns with stable angina due to symptomatic consistencies and evidence correlations. The differential diagnosis strongly supports stable angina, having a higher probability score compared to other potential conditions. The evidence gathered (e.g., E_55_@_V_56, E_57_@_V_33) is consistent with the symptoms typically seen in stable angina as shown in Knowledge Graph Cluster 4, further distancing it from closely related diagnoses such as unstable angina or possible NSTEMI/STEMI.
+
+### Instructive question
+1. **Questions**: Pain restriction? Location of chest pain?, Symptoms such as triggers or relief methods?
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Aerobic exercise and endurance training, tailored to cardiovascular health.
+    - **Goals**: Improve cardiovascular function, reduce episodes of stable angina, increase exercise tolerance.
+    - **Exercises**: Walking, cycling, low-impact aerobic routines.
+    - **Manual Therapy**: Not typically applicable.
+    - **Techniques**: Monitoring of heart rate and exertion levels during exercise.
+
+2. **Exercise Recommendations from the Exercise List**: Regular, moderate-intensity physical activity such as walking at a brisk pace for 30 minutes most days of the week.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Anti-ischemic medications, such as nitrates, beta-blockers, or calcium channel blockers, to manage symptoms and prevent angina episodes.
+- Aspirin or other antiplatelet medications to reduce the risk of progression to unstable angina or other cardiac events.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: A stress test to assess the heart’s capacity to handle exercise, potentially modify treatment to refine angina management."
+test_1006,Acute otitis media,Acute otitis media,Acute otitis media,"### Diagnoses
+1. **Diagnosis**: Acute otitis media
+
+2. **Explanations of diagnose**: 
+   - Acute otitis media is an infection of the middle ear, which can present with symptoms such as ear pain, fever, and irritability. It is common in children but can occur in adults as well. The retrieval of evidence and the pathology provided align with this diagnosis. Additionally, the medical knowledge cluster supports the symptoms and relationship with similar diseases such as viral pharyngitis and acute laryngitis, although these were not the primary diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Auditory protection exercises; postural awareness for ear pain relief.
+    - **Goals**: Alleviate ear discomfort, prevent recurrences, and promote recovery.
+    - **Exercises**: Gentle neck and shoulder stretching to reduce tension related to ear pain.
+    - **Manual Therapy**: Techniques to relax muscles surrounding the ear and neck region.
+    - **Techniques**: Thermal therapy – warm compresses for soothing ear pain.
+
+2. **Exercise Recommendations from the Exercise List**: Incorporate neck mobility exercises to improve blood circulation and reduce pain around the ear.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Standard treatment includes analgesics such as acetaminophen or ibuprofen to manage pain.
+- Antibiotics may be recommended if the cause is bacterial and prescribed by a physician.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Audiometry test to assess any impact on hearing ability."
+test_1007,URTI,URTI,URTI,"### Diagnoses
+1. **Diagnosis**: URTI
+2. **Explanations of diagnose**: The patient's symptoms and evidence closely align with an Upper Respiratory Tract Infection (URTI). The differential diagnosis also supports this, with URTI having the highest probability (0.3484). The clusters in the KARE Knowledge Graph indicate that URTI shares associated symptoms with diseases like Chagas, HIV (initial infection), and others in the viral and respiratory categories, helping to rule out these conditions based on prevalence in the evidence provided.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Breathing exercises to alleviate respiratory discomfort.
+    - **Goals**: Reduce respiratory symptoms, improve airflow, and ensure effective clearance of secretions.
+    - **Exercises**: Diaphragmatic breathing, incentive spirometry.
+    - **Manual Therapy**: Thoracic mobilization to assist in respiratory function.
+    - **Techniques**: Nasal rinsing, steam inhalation to aid in decongestion.
+
+2. **Exercise Recommendations from the Exercise List**: Include gentle aerobic exercises to maintain overall physical function without exacerbating symptoms.
+
+### Pain Psychologist Treatments
+Not applicable
+
+### Pain Medicine Treatments
+- Over-the-counter analgesics (e.g., acetaminophen) for fever and pain management.
+- Decongestants may be prescribed to alleviate nasal congestion.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Assess for any progressive or severe respiratory symptoms to rule out complications like pneumonia."
+test_1008,Acute rhinosinusitis,Acute rhinosinusitis,Acute rhinosinusitis,"### Diagnoses
+1. **Diagnosis**: Acute rhinosinusitis
+
+2. **Explanations of diagnose**: Acute rhinosinusitis is characterized by inflammation of the sinuses, typically following a viral upper respiratory infection. It can lead to symptoms such as nasal congestion, facial pain/pressure, purulent nasal discharge, and possibly a reduced sense of smell. The retrieved case evidence suggests inflammation and possible infection markers comparable to the current patient, aligning well with the knowledge graph community cluster that includes Acute rhinosinusitis as a primary disease association.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Focus on myofascial release techniques to relieve related facial pressure; Gentle massage to assist with drainage and reduce sinus pressure 
+   - **Goals**: To alleviate sinus pressure and discomfort, enhance nasal drainage, and reduce overall inflammation in the facial areas associated with sinus cavities.
+   - **Exercises**: Breathing exercises to encourage nasal drainage and improve airflow.
+   - **Manual Therapy**: Mild acupressure applied to sinus areas and lymphatic drainage techniques.
+   - **Techniques**: Utilize gentle steam to moisten sinus passages, potentially using methods such as steam inhalation.
+
+2. **Exercise Recommendations from the Exercise List**: Encouragement of facial yoga or relaxation exercises targeting facial muscles and tension release.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Nasal corticosteroids to reduce inflammation.
+- Saline nasal spray for nasal irrigation.
+- Analgesics, such as acetaminophen, for pain management.
+- Decongestants if necessary to relieve chronic obstruction.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider imaging (such as a CT scan of the sinuses) if symptoms persist beyond typical recovery timelines to rule out complications or differentials like chronic sinusitis."
+test_1009,URTI,URTI,URTI,"### Diagnoses
+1. **Diagnosis**: URTI
+
+2. **Explanations of diagnose**: The patient is a 72-year-old female experiencing symptoms consistent with an Upper Respiratory Tract Infection (URTI). URTI is characterized by symptoms such as cough, sore throat, and congestion, which align with the patient's reported evidences. The differential diagnosis strength for URTI in the patient's profile is the highest among the considered conditions. Furthermore, URTI falls within Medical Knowledge Cluster 2, which supports its association with the presented symptoms and epidemiologic likelihood.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom (specifically any notable discharge, fever, or changes in respiratory capacity).
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Educate on effective breathing strategies to manage symptoms like a cough and congestion.
+    - **Goals**: Enhance respiratory function, reduce congestion, and improve overall comfort.
+    - **Exercises**: Deep Breathing Exercises, Gentle neck and shoulder stretches to relieve tension.
+    - **Manual Therapy**: Gentle chest percussion to facilitate mucus clearance.
+    - **Techniques**: Breathing Techniques emphasis on exhalations.
+
+2. **Exercise Recommendations from the Exercise List**: Encourage regular walking and gentle physical activity to maintain circulation and respiratory health.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Analgesics such as acetaminophen for any discomfort like headache or throat pain.
+- Nasal decongestants or antihistamines if congestion is significant.
+- Maintain proper hydration to support recovery.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Monitor for signs of secondary bacterial infection which may require antibiotics, such as persistent fever or worsening symptoms."
+test_1010,Viral pharyngitis,Viral pharyngitis,Viral pharyngitis,"### Diagnoses
+1. **Diagnosis**: Viral pharyngitis
+
+2. **Explanations of diagnose**: Viral pharyngitis is characterized by inflammation of the pharynx caused predominantly by viral infections. Common symptoms include sore throat, redness, cough, and sometimes fever. In this patient's case, the supporting evidence includes symptomatology related to E_41, E_45, and E_49, which are associated with viral infections of the upper respiratory tract. This was the most likely diagnosis, given the presented differential diagnosis probabilities and clustering information from the KARE knowledge graph.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Encourage rest to reduce strain on the pharynx. Hydration and humidification of air can help soothe the throat. Warm salt-water gargles are recommended to relieve throat irritation.
+    - **Goals**: Reduce symptomatic discomfort such as sore throat and facilitate faster recovery.
+    - **Exercises**: Light breathing exercises to maintain lung health.
+    - **Manual Therapy**: Not applicable unless muscular tension is noted in the neck region due to continuous coughing.
+    - **Techniques**: Deep breathing techniques to promote relaxation.
+
+2. **Exercise Recommendations from the Exercise List**: Breathing exercises can be beneficial in maintaining respiratory health.
+
+### Pain Psychologist Treatments
+Not applicable
+
+### Pain Medicine Treatments
+- Over-the-counter analgesics (e.g., ibuprofen or acetaminophen) to alleviate sore throat pain.
+- Consider throat lozenges containing menthol or anesthetics like benzocaine for symptom relief.
+- If bacterial infection is suspected as a secondary condition after further evaluation, antibiotics may be considered.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Further clinical assessment to exclude possible complications like bacterial infections (e.g., strep throat) or other respiratory conditions that might require alternate treatments or investigations."
+test_1011,URTI,URTI,URTI,"### Diagnoses
+1. **Diagnosis**: URTI
+
+2. **Explanations of diagnose**: 
+   The patient is a 50-year-old male presenting with symptoms that are most consistent with an Upper Respiratory Tract Infection (URTI). Considering the differential diagnosis, URTI is the most likely cause, with the highest probability from the provided data and corroborated by the similar past patient case. URTIs commonly lead to symptoms such as nasal congestion, sore throat, and cough. Other potential diagnoses like bronchitis, influenza, or pneumonia have been considered, but the evidence and symptom alignment strongly support URTI as the most suitable diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Breathing exercises to alleviate any discomfort due to coughing or nasal congestion.
+   - **Goals**: To improve respiratory function and relieve any associated muscular tension due to persistent coughing or throat discomfort.
+   - **Exercises**: Diaphragmatic breathing, thoracic expansion exercises.
+   - **Manual Therapy**: Light chest physiotherapy if consented and clinically indicated.
+   - **Techniques**: Focused relaxation techniques and postural education to manage discomfort.
+   
+2. **Exercise Recommendations from the Exercise List**:
+   - Breathing exercises as part of the management plan.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+Over-the-counter analgesics such as acetaminophen or ibuprofen to manage any associated pain or discomfort, such as sore throat or headache. Consider advising the patient on the appropriate use and dosage.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider follow-up if symptoms persist beyond the typical duration of a URTI or if new symptoms develop that suggest an alternative diagnosis, such as pneumonia or bronchitis. A reevaluation of symptoms and possibly a chest X-ray or laboratory tests might be warranted depending on symptom progression."
+test_1012,Anaphylaxis,Anaphylaxis,Anaphylaxis,"### Diagnoses
+1. **Diagnosis**: Anaphylaxis
+
+2. **Explanations of diagnose**: Anaphylaxis is a severe, potentially life-threatening allergic reaction that can occur rapidly. It is characterized by symptoms such as swelling, difficulty breathing, hives, a rapid fall in blood pressure, and potentially loss of consciousness. The initial evidence (E_148) and patient's symptoms align with the significant overlap in symptoms associated with known anaphylaxis cases. Similar symptoms were seen in a past patient case and supported by evidence from the KARE knowledge graph which includes the presence of E_42 and E_55_@_V_197, commonly associated with anaphylactic reactions.
+
+### Instructive question
+1. **Questions**: Describe the onset time of symptoms, Location of swelling, Any known allergies.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Administer epinephrine immediately. Ensure airway remains open, and patient is monitored for any progression of symptoms.
+   - **Goals**: Prevent severe reactions, support vital functions, improve stability.
+   - **Exercises**: Not applicable.
+   - **Manual Therapy**: Not applicable.
+   - **Techniques**: Use of epinephrine auto-injector technique to manage acute reaction.
+
+2. **Exercise Recommendations from the Exercise List**: Not applicable.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+   - Administration of antihistamines and corticosteroids as adjunctive treatments post-acute management.
+   - Monitoring for any progression of symptoms or biphasic anaphylaxis with subsequent dosages of epinephrine if needed.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Allergy testing to determine the specific allergen causing the reaction and creating an avoidance strategy or desensitization protocol if possible."
+test_1013,Influenza,Influenza,Influenza,"### Diagnoses
+1. **Diagnosis**: Influenza
+2. **Explanations of diagnose**: The patient's initial processing diagnosis is Influenza, which is consistent with the evidence clusters and patient symptoms. Influenza is supported by a significant probability in the differential diagnosis and closely matched symptom patterns. The comparison with similar past cases where URTI was identified reinforces its distinction from other possibilities such as HIV initial infection or Chagas, based on symptom evidence and clustering.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Breathing exercises to improve lung function and manage respiratory symptoms.
+   - **Goals**: To increase respiratory capacity, decrease symptoms of discomfort, and improve overall function and mobility during recovery.
+   - **Exercises**: Diaphragmatic breathing exercises, chest expansion exercises.
+   - **Manual Therapy**: Chest physiotherapy techniques such as percussion and vibration to relieve congestion.
+   - **Techniques**: Respiratory muscle training techniques.
+
+2. **Exercise Recommendations from the Exercise List**: Progressive walking program to increase cardiovascular endurance gradually as tolerated. 
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Antiviral medication for Influenza.
+- Analgesics such as acetaminophen or ibuprofen for pain and fever management.
+- Adequate hydration and rest to aid recovery.
+- Monitor and manage symptoms to prevent complications.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Assessments focusing on respiratory function and any potential secondary infections should be considered, like pneumonia, based on symptom severity and progression."
+test_1014,Pulmonary embolism,Pulmonary embolism,Pulmonary embolism,"### Diagnoses
+1. **Diagnosis**: Pulmonary embolism
+
+2. **Explanations of diagnose**: 
+   - The differential diagnosis values indicate a higher probability for Pulmonary embolism (0.1027) compared to other conditions in the list.
+   - Supporting evidence, such as E_53 (tachycardia), E_54_@_V_179 (chest pain), and E_220 (shortness of breath), align with the diagnostic criteria for pulmonary embolism.
+   - Both the similar past patient case and the KARE knowledge graph converge on pulmonary embolism as a plausible diagnosis due to overlapping symptoms and positional likelihood in the medical evidence data.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Breathing exercises to improve lung capacity and reduce pain during breathing.
+   - **Goals**: Improve breathing efficiency and reduce discomfort associated with pulmonary embolism.
+   - **Exercises**: Diaphragmatic breathing, pursed-lip breathing exercises.
+   - **Manual Therapy**: Not typically required unless secondary muscle tension is present.
+   - **Techniques**: Education on optimal breathing patterns.
+
+2. **Exercise Recommendations from the Exercise List**: Regular walking within tolerance levels to promote circulation and reduce the risk of thrombosis.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Initiate anticoagulant therapy to prevent further clotting and manage thrombus size.
+- Analgesics for managing associated chest pain, considering NSAIDs or acetaminophen if not contraindicated.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider imaging studies such as CT pulmonary angiography to confirm pulmonary embolism and evaluate the extent of vascular involvement."
+test_1015,Pneumonia,Pneumonia,Pneumonia,"### Diagnoses
+1. **Diagnosis**: Pneumonia
+2. **Explanations of diagnose**: 
+   - Pneumonia is the most likely diagnosis given the initial evidence and processed diagnosis. This is supported by the clustering of pneumonia with similar bacterial or viral infections in the medical knowledge graph, along with common symptoms represented in evidence identifiers related to this patient case, such as E_132_@_7, E_221, and others associated directly with pneumonia's presentation. Furthermore, pneumonia holds the highest probability among differential diagnoses considered while its symptom overlap with diseases like influenza and bronchitis adds to the complexity of accurate diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Breathing exercises to enhance respiratory capacity and relief of symptoms related to lung congestion.
+   - **Goals**: Improve lung function and patient comfort, reduce pain during breathing, ease general respiratory effort.
+   - **Exercises**: Diaphragmatic breathing, segmental breathing to encourage full lung expansion, and thoracic expansion exercises.
+   - **Manual Therapy**: Percussive and vibration techniques to facilitate mucous clearance.
+   - **Techniques**: Use of incentive spirometry to encourage deep breathing.
+
+2. **Exercise Recommendations from the Exercise List**: Focus on gentle aerobic exercises like walking to maintain fitness and promote recovery without exacerbating symptoms.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Initiation of antibiotics (as pneumonia is commonly bacterial) with guidance from culture and sensitivity results.
+- Analgesics such as acetaminophen for fever and malaise.
+- Cough suppressants should be used cautiously to prevent inhibiting productive cough.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Chest X-ray or CT scan to confirm the presence and extent of pneumonia.
+"
+test_1016,Anemia,Anemia,Anemia,"### Diagnoses
+1. **Diagnosis**: Anemia.
+2. **Explanations of diagnose**: Based on the patient's presentation and the processing of differential diagnosis data, Anemia emerged as the most likely diagnosis due to the significant weight (0.2679) placed in the differential diagnosis scores. Similar past patient data and medical knowledge clusters provided supporting evidence that helped confirm this diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Incorporate aerobic exercises tailored to patient's endurance levels to improve oxygen delivery and utilization.
+    - **Goals**: Enhance cardiovascular function and reduce fatigue.
+    - **Exercises**: Walking, cycling, swimming.
+    - **Manual Therapy**: Not typically indicated for Anemia unless comorbid musculoskeletal issues are present.
+    - **Techniques**: Breathing exercises to enhance oxygen intake and improve respiratory efficiency.
+
+2. **Exercise Recommendations from the Exercise List**: Gradual increase in physical activity, focusing on light to moderate-intensity exercises.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+Manage symptoms with iron supplementation, possibly combined with vitamin B12 and folic acid if indicated. Pain relief through analgesic medications if pain is present and attributed to musculoskeletal stress secondary to Anemia.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Comprehensive blood work to determine the specific type of anemia (e.g., iron-deficiency, B12-deficiency). Further investigation into underlying causes such as gastrointestinal bleeding or malnutrition."
+test_1017,Pulmonary embolism,Pulmonary embolism,Pulmonary embolism,"### Diagnoses
+1. **Diagnosis**: Pulmonary embolism
+
+2. **Explanations of diagnose**: Pulmonary embolism is a blockage in one of the pulmonary arteries in the lungs, often due to blood clots that travel to the lungs from the legs or other parts of the body. It is a part of the conditions listed in Medical Knowledge Cluster 3 alongside pericarditis, spontaneous pneumothorax, and panic attack, which involve varying levels of respiration difficulty and chest discomfort. The supporting evidence such as E_55_@_V_56, E_57_@_V_171, and E_220 align with symptoms typical of a pulmonary embolism, such as sudden onset of chest pain and shortness of breath.
+
+### Instructive question
+1. **Questions**:
+    - Pain restriction
+    - Symptom
+    - Location
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Breathing exercises to improve lung capacity and oxygenation.
+    - **Goals**: Enhance respiratory function, prevent deconditioning, and reduce anxiety related to breathing difficulties.
+    - **Exercises**: Diaphragmatic breathing, pursed-lip breathing, and progressive ambulation exercises.
+    - **Manual Therapy**: Gentle thoracic mobilizations to facilitate respiratory mechanics.
+    - **Techniques**: Patient education on posture and exercises to facilitate effective gas exchange.
+
+2. **Exercise Recommendations from the Exercise List**: Thoracic expansion exercises, graded walking program to improve exercise tolerance.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Anticoagulation therapy to prevent further clotting and assist with clot dissolution.
+- Analgesics for pain management if necessary, especially if the patient experiences chest pain.
+- Supplemental oxygen therapy as needed based on blood oxygen levels and symptoms.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Perform a CT pulmonary angiography to confirm the presence and extent of any emboli in the pulmonary arteries. Additionally, evaluation for any possible sources of thromboembolism, such as deep vein thrombosis, may be advised."
+test_1018,Pulmonary embolism,Localized edema,Localized edema,"### Diagnoses
+1. **Diagnosis**: Pulmonary embolism
+
+2. **Explanations of diagnose**: The diagnosis was determined due to the overlap of localized edema and symptoms associated with pulmonary embolism as per the KARE Knowledge Graph Communities' information. Localized edema is often seen in pulmonary embolism cases, and given the retrieved similar past patient cases and semantic cluster analysis, pulmonary embolism is the most likely cause of the symptoms.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Deep breathing exercises and postural drainage may be beneficial in managing symptoms associated with pulmonary embolism.
+    - **Goals**: To enhance respiratory function and alleviate edema.
+    - **Exercises**: Diaphragmatic breathing exercises, thoracic expansion exercises.
+    - **Manual Therapy**: Gentle chest mobilization.
+    - **Techniques**: Use of incentive spirometry.
+
+2. **Exercise Recommendations from the Exercise List**: Walking at a comfortable pace to encourage circulation without overexertion.
+
+### Pain Psychologist Treatments(if applicable)
+Not applicable
+
+### Pain Medicine Treatments
+- Administer anticoagulants to prevent further clotting.
+- Pain management can include NSAIDs to alleviate discomfort caused by edema.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: CT pulmonary angiography to confirm the presence of a pulmonary embolism."
+test_1019,Boerhaave syndrome,Boerhaave,Boerhaave,"### Diagnoses
+1. **Diagnosis**: Boerhaave syndrome
+
+2. **Explanations of diagnose**: Boerhaave syndrome is an esophageal rupture resulting from sudden and extreme intraesophageal pressure from forceful vomiting. This can present with severe chest pain and subcutaneous emphysema. Given the patient's age and differential diagnosis where Boerhaave syndrome was prioritized, it is a critical consideration. The medical knowledge graph supports its inclusion due to overlapping symptoms with GERD and potential overlap with other thoracic pathologies.
+
+### Instructive question
+1. **Questions**: Symptom presence (chest pain after vomiting), Vomiting history, Pain location
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Initial stabilization and supportive care to manage pain and prevent further complications.
+    - **Goals**: Stabilize the patient's condition; manage symptoms and pain associated with esophageal rupture.
+    - **Exercises**: Not applicable for Boerhaave syndrome during initial treatment; focus on medical stabilization first.
+    - **Manual Therapy**: Not applicable; manual therapy isn't suitable for esophageal ruptures.
+    - **Techniques**: Focus on patient positioning to reduce pain and prevent exacerbation.
+
+2. **Exercise Recommendations from the Exercise List**: Not applicable at this initial stage.
+
+### Pain Psychologist Treatments
+Not applicable
+
+### Pain Medicine Treatments
+- Pain management will likely require systemic intravenous analgesics such as opioids, given the severity of pain associated with esophageal rupture.
+- Address potential secondary infections prophylactically with antibiotics to prevent mediastinitis.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Conduct esophagography or CT scan to confirm esophageal rupture and evaluate for mediastinal involvement."
+test_1020,Inguinal hernia,Inguinal hernia,Inguinal hernia,"### Diagnoses
+1. **Diagnosis**: Inguinal hernia.
+
+2. **Explanations of diagnose**: The patient's primary pathology is identified as an inguinal hernia. This condition involves a protrusion of abdominal cavity contents through the inguinal canal, which is more common in males. The differential diagnosis also includes scombroid food poisoning and pancreatic neoplasm. However, the evidence strongly points towards an inguinal hernia, particularly given the age and sex of the patient, alongside evidence E_129 which supports the diagnosis.
+
+### Instructive question
+1. **Questions**: 
+    - Pain location and whether pain is localized or refers elsewhere.
+    - Restriction of activities due to pain.
+    - Consistency of symptoms like nausea or unusual eating sensations related to other possible conditions like scombroid food poisoning.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Core stability exercises, Postural training, and Education on safe movement and lifting techniques.
+    - **Goals**: To strengthen core muscles, prevent exacerbation of the hernia, and decrease discomfort during daily activities.
+    - **Exercises**: Pelvic tilts, Bent-knee fall outs, and Abdominal bracing.
+    - **Manual Therapy**: Gentle mobilization techniques to reduce discomfort and improve mobility if required.
+    - **Techniques**: Use of supportive trusses or pads may be considered to alleviate pain in specific movements.
+
+2. **Exercise Recommendations from the Exercise List**: Strengthening exercises focusing on the abdominal wall and maintaining overall physical fitness without straining the affected area.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Consider nonsteroidal anti-inflammatory drugs (NSAIDs) for pain relief.
+- If necessary, referral for surgical assessment for hernia repair might be needed if symptoms are severe or worsening.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Surgical consultation to assess the hernia size, reducibility, and possible repair options, given the age and activity restrictions of the patient."
+test_1021,Allergic sinusitis,Allergic sinusitis,Allergic sinusitis,"### Diagnoses
+1. **Diagnosis**: Allergic sinusitis.
+2. **Explanations of diagnose**: Allergic sinusitis is characterized by inflammation of the nasal passages due to allergic reactions, commonly triggered by allergens like pollen or dust. It presents with symptoms such as nasal congestion, runny nose, sneezing, and itchy eyes. The patient's evidence aligns with allergic sinusitis, as supported by matches in the knowledge graph and differential diagnosis.
+
+### Instructive question
+1. **Questions**: Ask about exposure to allergens; Clarify if there is a history of similar symptoms during particular seasons; Record onset and duration of symptoms.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Nasal lavage with saline solutions can be recommended to alleviate congestion. Steam inhalation might also provide symptomatic relief.
+   - **Goals**: Reduce nasal inflammation and congestion, improve airflow through nasal passages, and alleviate discomfort caused by sinus pressure.
+   - **Exercises**: Not typically applicable for allergic sinusitis.
+   - **Manual Therapy**: Not typically applicable for allergic sinusitis.
+   - **Techniques**: Encourage techniques for allergen avoidance such as using HEPA filters and keeping windows closed during high pollen seasons.
+
+2. **Exercise Recommendations from the Exercise List**: Not typically applicable for allergic sinusitis.
+
+### Pain Psychologist Treatments
+Not applicable
+
+### Pain Medicine Treatments
+- Antihistamines: These can help reduce allergic responses.
+- Nasal corticosteroids: These are effective in reducing nasal inflammation and are often the first-line treatment for allergic sinusitis.
+- Decongestants: These may provide short-term relief of nasal congestion.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Allergy testing to identify specific allergens. This may involve skin prick tests or blood tests to measure the body's response to common allergens."
+test_1022,Anemia,Anemia,Anemia,"### Diagnoses
+1. **Diagnosis**: Anemia
+
+2. **Explanations of diagnose**: 
+   Anemia in this 7-year-old patient is indicated by the high probability (0.776) in the differential diagnosis and the presence of evidence linked to this condition. The retrieved KARE Knowledge Graph Communities provide information on anemia grouped with similar conditions like Chagas and HIV (initial infection), considering overlapping symptoms. However, distinct evidence markers such as E_204_@_V_10 and E_113 are significant for anemia and align with the current case's symptoms. Anemia is characterized by a deficiency in red blood cells or hemoglobin, leading to fatigue and weakness, which likely aligns with the patient’s evidence markers.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Ensuring adequate rest and correction of hemoglobin levels through diet or supplements.
+   - **Goals**: Improve fatigue and overall energy levels by addressing hemoglobin deficiencies; support physical stamina.
+   - **Exercises**: Gentle aerobic exercises like walking or swimming to boost cardiovascular health.
+   - **Manual Therapy**: Not typically prescribed for anemia.
+   - **Techniques**: Encourage deep breathing exercises for better oxygen utilization.
+
+2. **Exercise Recommendations from the Exercise List**: Walking, light swimming, and stretching exercises.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+Iron supplements, Vitamin B12 or folate supplements depending on the specific type of anemia. Consulting with a pediatric hematologist may be beneficial for tailored treatments.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Comprehensive blood test to confirm anemia type and check for possible nutritional deficiencies causing the anemia."
+test_1023,Scombroid food poisoning,Scombroid food poisoning,Scombroid food poisoning,"### Diagnoses
+1. **Diagnosis**: Scombroid food poisoning.
+
+2. **Explanations of diagnose**: Scombroid food poisoning occurs due to the ingestion of improperly stored or spoiled fish which leads to the production of histamine. This condition presents with symptoms similar to an allergic reaction such as flushing, rash, headache, and gastrointestinal distress. The presence of evidence E_132_@_7 and association with others like E_133_@_V_34 and E_130_@_V_156 from the knowledge graph substantiates the diagnosis. The differential diagnosis includes anaphylaxis, but the absence of acute respiratory distress or hemodynamic instability leans towards scombroid food poisoning, also supported by the absence of unique E-values tied to anaphylaxis.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Cooling modalities for symptom relief, education on dietary choices to prevent recurrence.
+    - **Goals**: Reduce symptoms such as flushing and gastrointestinal distress, preventing future incidents through patient education.
+    - **Exercises**: Not typically required for this condition.
+    - **Manual Therapy**: Not applicable.
+    - **Techniques**: Breathing techniques for anxiety reduction if present.
+
+2. **Exercise Recommendations from the Exercise List**: Not applicable.
+
+### Pain Psychologist Treatments (if applicable)
+1. **Treatment 1**: Not applicable.
+
+### Pain Medicine Treatments
+- Antihistamines such as diphenhydramine for symptomatic relief.
+- Consideration of activated charcoal if the ingestion was recent and in large quantity.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Assess the patient's dietary history to determine potential exposure and guide education on proper food handling and recognition of spoiled fish to prevent recurrence."
+test_1024,Viral pharyngitis,Viral pharyngitis,Viral pharyngitis,"### Diagnoses
+1. **Diagnosis**: Viral pharyngitis
+2. **Explanations of diagnose**: Viral pharyngitis is an inflammation of the pharynx, often caused by viral infections. Symptoms may include sore throat, pain during swallowing, and swollen lymph nodes. The medical evidence supports this diagnosis, aligning with evidence clusters in the KARE Knowledge Graph which associates relevant symptoms like E_55_@_V_21 and E_33 with viral pharyngitis.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Encourage fluid intake, use of throat lozenges, and resting the voice to minimize discomfort.
+    - **Goals**: To reduce throat pain and inflammation, and promote healing of the pharynx.
+    - **Exercises**: Gentle neck and throat stretching exercises to relieve tension.
+    - **Manual Therapy**: Not typically applicable for viral pharyngitis.
+    - **Techniques**: Warm saltwater gargles several times a day.
+
+2. **Exercise Recommendations from the Exercise List**: Engage in mild aerobic exercises as tolerated, which can boost immune function without over-exertion.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Over-the-counter pain relievers like acetaminophen or ibuprofen can be used to alleviate discomfort associated with viral pharyngitis.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: If persistent symptoms occur or worsen, further evaluation by an ENT specialist may be necessary to rule out bacterial infection or other underlying causes."
+test_1025,URTI,URTI,URTI,"### Diagnoses
+1. **Diagnosis**: URTI.
+
+2. **Explanations of diagnose**: This diagnosis is based on the similarity and probability of the symptoms presented (evidences such as E_41, E_48, E_53, E_54, etc.) aligning with clusters in the Medical Knowledge Graph which highlight URTI as a possibility. The retrieved case and age suggest a likelihood of respiratory tract infection being the prevalent issue.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Educating the patient on posture and rest to possibly alleviate any associated musculoskeletal discomfort due to coughing or discomfort.
+    - **Goals**: Reduce discomfort associated with coughing and improve overall respiratory efficiency.
+    - **Exercises**: Gentle diaphragmatic breathing exercises.
+    - **Manual Therapy**: Gentle chest physical therapy may be utilized if coughing is productive or if musculoskeletal discomfort is noted.
+    - **Techniques**: Encourage patient to engage in gentle ranges of motion exercises for the upper body to maintain flexibility and relieve discomfort. 
+
+2. **Exercise Recommendations from the Exercise List**: Ensure to coach on correct breathing patterns and light cardiovascular activities when symptoms are mild.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Over-the-counter medications such as acetaminophen or ibuprofen for managing pain or fever associated with URTI.
+- Cough suppressants may be considered if cough is dry and bothersome.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider further diagnostic tests if symptoms persist beyond typical URTI duration or if new symptoms develop, such as persistent fever or productive cough, to rule out exacerbation of other conditions like bronchitis or additional infections."
+test_1026,Viral pharyngitis,Viral pharyngitis,Viral pharyngitis,"### Diagnoses
+1. **Diagnosis**: Viral pharyngitis
+2. **Explanations of diagnose**: The diagnosis of viral pharyngitis is consistent with the presented symptoms and supported by evidence similarities within the Medical Knowledge Cluster 5, where viral pharyngitis is closely associated with symptoms found in the patient, such as E_55_@_V_137 and E_55_@_V_148. While similar conditions like acute laryngitis and URTI share some overlapping symptoms, viral pharyngitis remains the most probable diagnosis due to the specific combination of evidence and patient profile.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Soft tissue mobilization may be useful to relieve discomfort in the neck area, commonly associated with viral pharyngitis.
+    - **Goals**: Reduce discomfort and improve comfort during swallowing.
+    - **Exercises**: Gentle neck stretches to relieve tension and promote healing.
+    - **Manual Therapy**: Light massage targeting neck and shoulder muscles, if tender or tense.
+    - **Techniques**: Use relaxation techniques to assist with discomfort; may include deep breathing exercises and gentle yoga.
+
+2. **Exercise Recommendations from the Exercise List**: Encourage exercises focused on flexibility and relaxation (e.g., neck stretches, gentle yoga).
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Implementation of NSAIDs like ibuprofen to reduce throat pain and inflammation.
+- Lozenges or throat sprays that contain pain-relieving components for localized relief.
+- Encouragement of warm saltwater gargles for throat soothing effect.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider throat swab culture or rapid antigen testing to rule out bacterial causes if symptoms persist or worsen. Implement assessment for any additional symptoms outside typical viral presentation to guide potential reevaluation."
+test_1027,GERD,GERD,GERD,"### Diagnoses
+1. **Diagnosis**: GERD.
+
+2. **Explanations of diagnose**: The patient, a 17-year-old female, exhibits evidence consistent with GERD (Gastroesophageal Reflux Disease). This is supported by the high probability value assigned to GERD in the differential diagnosis. Symptoms can include prolonged acid reflux, chest pain, and a sour taste in the mouth, which are commonly mistaken for other conditions such as bronchitis or pericarditis. The medical knowledge cluster further aligns with GERD, placing it alongside diseases with overlapping symptoms such as pericarditis, which can manifest with similar chest pain.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Patient education on lifestyle modifications, postural advice to reduce symptoms, diaphragmatic breathing exercises.
+    - **Goals**: Reduce symptoms associated with GERD through lifestyle changes and exercises, improve postural habits to prevent reflux episodes.
+    - **Exercises**: Diaphragmatic breathing exercises to enhance diaphragmatic function and lessen intra-abdominal pressure.
+    - **Manual Therapy**: Techniques such as mild thoracic spine mobilization to aid postural improvements.
+    - **Techniques**: Education on proper eating habits, notably avoiding late meals and elevating the head during sleep to prevent nighttime reflux.
+
+2. **Exercise Recommendations from the Exercise List**: Regular practice of diaphragmatic breathing and postural strengthening exercises.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+Patients may be prescribed proton pump inhibitors (PPIs) or H2 blockers to reduce stomach acid and relieve symptoms. Over-the-counter antacids may also provide short-term relief. 
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Further evaluation for esophageal motility disorders if symptoms persist or do not respond to standard GERD treatments."
+test_1028,GERD,GERD,GERD,"### Diagnoses
+1. **Diagnosis**: GERD
+
+2. **Explanations of diagnose**: The patient, a 73-year-old male, exhibits symptoms aligning most closely with GERD, which is characterized by acid reflux and heartburn. Differential diagnosis included unstable angina and possible NSTEMI/STEMI, but GERD had the highest likelihood based on provided evidences.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Educate the patient on body mechanics and posture to prevent exacerbation of symptoms, especially avoiding positions that may increase abdominal pressure.
+    - **Goals**: Improve quality of life by reducing symptoms and their impact on daily activities.
+    - **Exercises**: Gentle stretching and positioning exercises that encourage neutral spine alignment.
+    - **Manual Therapy**: Diaphragmatic breathing techniques to reduce diaphragm tension and stress.
+    - **Techniques**: Application of relaxation and tension-reducing techniques to decrease overall stress, contributing to symptom flare-up.
+
+2. **Exercise Recommendations from the Exercise List**: Encourage regular walking or gentle cycling to improve general fitness and support weight management.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+Consider the use of proton pump inhibitors (PPIs) or H2 receptor antagonists to manage acid production and provide symptomatic relief.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Detailed cardiac evaluation to rule out potential cardiac causes like unstable angina or NSTEMI/STEMI, given their presence in the differential diagnosis. Consider a stress test or echocardiogram based on previous cardiac history and current risk factors."
+test_1029,Sarcoidosis,Sarcoidosis,Sarcoidosis,"### Diagnoses
+1. **Diagnosis**: Sarcoidosis
+
+2. **Explanations of diagnose**: 
+   - Sarcoidosis is an inflammatory disease characterized by the formation of granulomas (clumps of inflammatory cells) in different organs, most commonly the lungs. The patient's symptomatology may include evidence from pulmonary symptoms similar to other respiratory or cardiac conditions. The retrieved cluster from the KARE Knowledge Graph highlights the association of sarcoidosis with other systemic symptoms and conditions like SLE, aiding in distinguishing it from possible NSTEMI/STEMI and other cardiac diagnoses.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom 
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Breathing exercises to improve lung function and reduce dyspnea.
+    - **Goals**: Enhance respiratory efficiency and functional capacity; reduce respiratory muscle fatigue.
+    - **Exercises**: Diaphragmatic breathing, pursed-lip breathing, and thoracic expansion exercises.
+    - **Manual Therapy**: Not typically applicable for sarcoidosis.
+    - **Techniques**: Pulmonary rehabilitation techniques and guided breathing exercises.
+
+2. **Exercise Recommendations from the Exercise List**: Pulmonary rehabilitation exercise program.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+   - Anti-inflammatory medications such as corticosteroids to manage systemic inflammation and granuloma formation.
+   - Oxygen therapy in cases of reduced oxygen saturation.
+   - Methotrexate or azathioprine as steroid-sparing agents if indicated.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Pulmonary function tests to evaluate the involvement and function of the lungs in sarcoidosis.
+"
+test_1030,Possible NSTEMI / STEMI,Possible NSTEMI / STEMI,Possible NSTEMI / STEMI,"### Diagnoses
+1. **Diagnosis**: Possible NSTEMI / STEMI
+
+2. **Explanations of diagnose**: The diagnosis of Possible NSTEMI / STEMI is warranted based on the weighted probability from the differential diagnoses (0.08297118640602558) and the symptoms evidence such as E_55_@_V_29 (typical for NSTEMI/STEMI), E_154, E_55_@_V_56, E_196 found within the medical knowledge cluster. Moreover, the patient's age of 65 and the presentation with this risk makes ischemic heart disease likely. This was further corroborated by the similar past patient case where initial evidence E_51, leading to an anaphylaxis diagnosis, shares certain similarities in terms of acute presentations but focused on different trajectories given the older age and symptom onset related to NSTEMI/STEMI.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Cardiac rehabilitation exercises within safe limits, focusing on improving cardiovascular function and monitoring.
+    - **Goals**: To enhance heart function, increase endurance safely, and reduce the future risk of cardiac events.
+    - **Exercises**: Walking, stationary cycling, and light resistance exercises as tolerated.
+    - **Manual Therapy**: Not generally applicable unless directed for pain relief under medical advice.
+    - **Techniques**: Flexibility and dynamic balance techniques to improve mobility.
+
+2. **Exercise Recommendations from the Exercise List**: Start with 5-10 minute light walks and gradually increase based on tolerance and heart-rate monitoring.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Implement the use of nitroglycerin for chest pain, in line with NSTEMI/STEMI management, or aspirin as directed.
+- Oral beta-blockers to manage heart rate if blood pressure allows.
+- Consider statins for long-term cholesterol management if not contraindicated and prescribed.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Schedule an immediate troponin level test to confirm myocardial injury and consider an ECG to assess for ST changes indicative of STEMI."
+test_1031,Atrial fibrillation,Atrial fibrillation,Atrial fibrillation,"### Diagnoses
+1. **Diagnosis**: Atrial fibrillation.
+
+2. **Explanations of diagnose**: Atrial fibrillation is an irregular and often rapid heart rate that can increase the risk of strokes, heart failure, and other heart-related complications. In Source B's ""Medical Knowledge Cluster 4,"" atrial fibrillation is grouped with conditions like unstable angina and acute pulmonary edema, reflecting the shared symptoms and cardiovascular nature. The patient's high differential diagnosis probability, the presence of pathologies like E_19 and E_69, and the evidence from similar past cases corroborate this diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom. 
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Cardiovascular exercise tailored to the patient's tolerance levels, light walking or swimming to improve cardiovascular efficiency without overwhelming the heart.
+    - **Goals**: Improve cardiac endurance, manage heart rate, and reduce risks associated with atrial fibrillation complications.
+    - **Exercises**: Low-intensity aerobic exercises, stretching exercises to help improve circulation.
+    - **Manual Therapy**: None typically required but monitoring of patient's response to exercise.
+    - **Techniques**: Education on recognizing symptoms of overexertion or atrial fibrillation exacerbations.
+
+2. **Exercise Recommendations from the Exercise List**: Walking, light swimming, yoga, and tai chi.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Anticoagulant medications to reduce the risk of stroke.
+- Anti-arrhythmic medications to restore normal heart rhythm.
+- Rate control medications to lower the heart rate.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Cardiac monitoring (e.g., Holter monitor) to evaluate heart rhythm and determine efficacy of treatments."
+test_1032,Guillain-Barré syndrome,Guillain-Barré syndrome,Guillain-Barré syndrome,"### Diagnoses
+1. **Diagnosis**: Guillain-Barré syndrome.
+2. **Explanations of diagnose**: The diagnosis of Guillain-Barré syndrome was made due to the evidence from the patient's case correlating with the Medical Knowledge Cluster 6, which specifically associates symptoms such as E_176 with Guillain-Barre syndrome. The similar past patient case involved a different diagnosis (Viral pharyngitis), but the provided data does not conflict or provide an alternative explanation for the presented pathology of Guillain-Barré syndrome.
+
+### Instructive Question
+1. **Questions**: Symptom onset and progression; Pain location; Neurological deficits.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Muscle strengthening, range of motion exercises.
+    - **Goals**: Improve muscle strength, enhance functional mobility, support nerve recovery.
+    - **Exercises**: Gradual strengthening exercises focusing on lower and upper extremities.
+    - **Manual Therapy**: Gentle joint mobilizations to maintain joint health.
+    - **Techniques**: Proprioceptive neuromuscular facilitation (PNF) techniques.
+
+2. **Exercise Recommendations from the Exercise List**: Gradual weight-bearing and non-weight-bearing exercises tailored to patient's tolerance and recovery stage.
+
+### Pain Psychologist Treatments(if applicable)
+Not applicable.
+
+### Pain Medicine Treatments
+1. Intravenous Immunoglobulin (IVIG) or Plasmapheresis as part of the acute phase management.
+2. Neuropathic pain management using medications like gabapentin or pregabalin if needed.
+3. Monitoring and management of respiratory status in case of necessity.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Electroneurography and electromyography to assess nerve function and detail the extent of peripheral nervous system involvement."
+test_1033,Boerhaave,Boerhaave,Boerhaave,"### Diagnoses
+1. **Diagnosis**: Boerhaave
+
+2. **Explanations of diagnose**: Boerhaave syndrome, also known as spontaneous esophageal rupture, is a condition where a tear occurs within the esophagus. It is often associated with forceful vomiting, causing a perforation of the esophagus lining. This diagnosis aligns with the given differential diagnosis and the patient's symptoms. It is important to distinguish Boerhaave from conditions like GERD, panic attacks, or pulmonary embolisms, which may present with chest pain or discomfort.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Not directly related to Boerhaave, but supportive care may involve addressing general thoracic or abdominal discomfort.
+   - **Goals**: Reduce physical discomfort, improve mobility, and support recovery post-treatment of the underlying condition.
+   - **Exercises**: Gentle breathing exercises to prevent stiffness post-intervention; no direct esophageal exercises.
+   - **Manual Therapy**: Not typically applicable unless addressing secondary musculoskeletal pain after hospital treatment.
+   - **Techniques**: Positional relief techniques, diaphragmatic breathing for relaxation.
+
+2. **Exercise Recommendations from the Exercise List**: Light stretching and relaxation exercises to reduce general body tension.
+
+### Pain Psychologist Treatments
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Initial focus on stabilization and pain relief post-esophageal rupture repair or surgery.
+- Use of analgesics under guidance by a surgeon or critical care specialist.
+- Monitor for any complications or secondary pain conditions post-surgical or non-surgical intervention.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Esophagography or CT scan to assess the extent of esophageal rupture and evaluate for any complications such as mediastinitis or pleural effusion."
+test_1034,Acute laryngitis,Acute laryngitis,Acute laryngitis,"### Diagnoses
+1. **Diagnosis**: Acute laryngitis.
+2. **Explanations of diagnose**: The patient's primary diagnosis of Acute laryngitis is supported by the differential diagnosis provided, where Acute laryngitis is the top-rated possibility. The symptoms recorded (e.g., E_55_@_V_20, E_49) align with those found in Medical Knowledge Cluster 5, which is associated with diseases such as Viral pharyngitis, Acute laryngitis, and others. The high prevalence of related symptoms suggests the inflammation of the larynx leading to hoarse voice, sore throat, and potential cough, which needs to be managed soon to prevent further irritation.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Voice rest, avoidance of irritants such as smoke and alcohol, humidified air to soothe the larynx.
+   - **Goals**: Reduce inflammation and irritation, restore normal phonation function.
+   - **Exercises**: Breathing exercises to optimize airflow and reduce vocal stress.
+   - **Manual Therapy**: Gentle neck and shoulder massage to reduce muscular tension.
+   - **Techniques**: Educating on voice hygiene and strategies to minimize strain such as proper posture while speaking.
+
+2. **Exercise Recommendations from the Exercise List**: Diaphragmatic breathing exercises to support phonation without excessive strain on the larynx.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Use of anti-inflammatory medications such as NSAIDs to reduce inflammation.
+- Consider cough suppressants if the cough is dry and distressing.
+- Use analgesics like acetaminophen for managing sore throat pain.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider ENT examination if symptoms persist beyond two weeks, or if voice loss is severe, to rule out other pathologies or complications involving the vocal cords."
+test_1035,Bronchospasm / acute asthma exacerbation,Bronchospasm / acute asthma exacerbation,Bronchospasm / acute asthma exacerbation,"### Diagnoses
+1. **Diagnosis**: Bronchospasm / acute asthma exacerbation
+
+2. **Explanations of diagnose**: The patient's symptoms align well with bronchospasm or an acute asthma exacerbation due to possible triggers like allergens, cold air, or exercise. The similarity with past cases and evidence from the knowledge graph supports this diagnosis, primarily when seen alongside evidence listing typical functional impairments indicative of exacerbated asthma conditions (e.g., E_214). While there are differential diagnoses that share similar symptoms, such as anaphylaxis and bronchitis, the presence of bronchodilator response and the absence of a significant allergic reaction or bacterial infection provide more specificity for bronchospasm.
+
+### Instructive question
+1. **Questions**: 
+   - Pain restriction: Assess if any specific activities worsen the symptoms.
+   - Location: Identify if the discomfort is localized in the chest or perhaps related to other regions such as the throat (indicative of upper respiratory involvement).
+   - Symptom: Determine if symptoms are primarily respiratory (wheezing, shortness of breath) versus systemic (could indicate allergic or infectious causes).
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Breathing exercises to improve lung capacity and airway clearance.
+   - **Goals**: To enhance respiratory function, reduce the frequency of exacerbations, and improve overall quality of life.
+   - **Exercises**: Diaphragmatic breathing, Controlled coughing, Pursed-lip breathing techniques.
+   - **Manual Therapy**: Chest physiotherapy if indicated.
+   - **Techniques**: Utilization of spacing and relaxation techniques during breathing exercises to reduce anxiety and improve efficiency.
+
+2. **Exercise Recommendations from the Exercise List**: None specifically applicable to this diagnosis, focus on prescribed physiotherapist breathing exercises.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Prescribe bronchodilators to alleviate wheezing and open the airways.
+- Consider corticosteroids if inflammation is significant, following an in-depth patient evaluation.
+- Evaluate the use of leukotriene modifiers if the patient shows allergy-related symptoms contributing to asthma.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Spirometry to assess lung function and confirm the diagnosis.
+2. **Evaluation 2**: Allergy testing if symptoms persist alongside potential triggers, suggesting an underlying allergic component."
+test_1036,HIV (initial infection),HIV (initial infection),HIV (initial infection),"### Diagnoses
+1. **Diagnosis**: HIV (initial infection).
+
+2. **Explanations of diagnose**: The patient's symptoms and evidence align closely with HIV (initial infection). The differential diagnosis showed a high probability for HIV and is supported by the medical evidence from the KARE Knowledge Graph, which links associated symptoms such as E_54_@_V_161 and E_55_@_V_62 to the disease. This decision is further corroborated by the similarity to symptoms in the Medical Knowledge Cluster 2, which included the diagnosis for related viral infections such as Ebola and Chagas.
+
+### Instructive question
+1. **Questions**: Pain restriction, Symptom progression, Other co-existing symptoms.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Not applicable, as the focus should primarily be on managing the infection and associated symptoms rather than pain relief through physiotherapy.
+   - **Goals**: To manage patient's general health and wellbeing, ensuring adequate rest and comfort.
+   - **Exercises**: Gentle aerobic exercises only if fatigue is not severe; monitor the patient closely.
+   - **Manual Therapy**: Not applicable.
+   - **Techniques**: Not applicable.
+
+2. **Exercise Recommendations from the Exercise List**: Emphasize rest and conservative activity within the patient's tolerance level due to their potential systemic symptoms.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Consideration of mild analgesics for any discomfort or generalized pain.
+- Ensure pain management aligns with overall treatment for HIV, avoiding interactions with antiretrovirals.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Comprehensive blood tests to assess for any related infections or complications associated with acute HIV infection."
+test_1037,PSVT (Paroxysmal Supraventricular Tachycardia),PSVT,PSVT,"### Diagnoses
+1. **Diagnosis**: PSVT (Paroxysmal Supraventricular Tachycardia)
+2. **Explanations of diagnose**: Based on evidence analysis and similar case insights, PSVT is identified as the likely condition. The presence of initial and corroborative evidence (E_76) aligns with patterns noted in both the KARE Knowledge Graph and patient case history, highlighting an arrhythmic event consistent with PSVT profiles.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: None specific for PSVT.
+   - **Goals**: Manage symptoms, improve overall cardiovascular health.
+   - **Exercises**: Cardiovascular exercises such as walking or cycling under medical guidance.
+   - **Manual Therapy**: Not applicable.
+   - **Techniques**: Relaxation techniques to manage stress that can exacerbate arrhythmias.
+
+2. **Exercise Recommendations from the Exercise List**: Light aerobic exercises as tolerated.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+1. **Treatment Details**: Medication as per cardiologist advice; common medications may include beta-blockers or anti-arrhythmic drugs prescribed by a physician to manage the tachycardia.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Potential referral to a cardiologist for comprehensive cardiac assessment and monitoring to evaluate the necessity for advanced treatments like catheter ablation or electrophysiological studies."
+test_1038,GERD,GERD,GERD,"### Diagnoses
+1. **Diagnosis**: GERD
+
+2. **Explanations of diagnose**: The patient presents with symptoms consistent with Gastroesophageal Reflux Disease (GERD), evidenced by their initial evidence and Progressive Diagnosis score favoring GERD. This conclusion is supported by the KARE Knowledge Graph, which clusters GERD with other related conditions like Boerhaave Syndrome and panic attacks that can occasionally present with similar symptomatology. Additionally, GERD was the highest differential diagnosis score in the patient's evaluation compared to other potential diagnoses like unstable angina, which aligns with the evidence from the knowledge graph about symptom connections (E_56_@_6, E_55_@_V_29).
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Focus on exercises that improve diaphragmatic breathing; incorporating postural adjustments to alleviate any strain on the abdomen and chest area that could exacerbate GERD symptoms.
+    - **Goals**: To reduce discomfort caused by GERD and enhance overall physical function and well-being. 
+    - **Exercises**: Diaphragmatic breathing exercises, gentle yoga poses that promote relaxation and tension relief.
+    - **Manual Therapy**: Postural re-alignment techniques and soft tissue mobilization if needed.
+    - **Techniques**: Focus on techniques that enhance breathing efficiency and posture corrective therapies.
+
+2. **Exercise Recommendations from the Exercise List**: Diaphragmatic breathing routines and relaxation exercises such as Child's pose and Cat-Cow stretches.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Prescribing proton pump inhibitors (PPIs) or H2 blockers to reduce stomach acid and alleviate symptoms.
+- Lifestyle modifications including diet adjustments and avoiding triggers known to exacerbate GERD symptoms (e.g., spicy foods, high-fat meals, caffeine, and alcohol).
+- In severe cases, discuss surgical options such as fundoplication with the consulting physician.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider additional diagnostic tests if symptoms do not improve with standard GERD treatment, such as esophageal pH monitoring or an upper endoscopy, to rule out other potential conditions like Boerhaave Syndrome or related gastrointestinal issues."
+test_1039,Panic attack,Panic attack,Panic attack,"### Diagnoses
+1. **Diagnosis**: Panic attack.
+
+2. **Explanations of diagnose**: The symptoms and evidence provided align with a panic attack, which is corroborated by the presence of symptom E_53 commonly found in panic attacks as per the Medical Knowledge Cluster 3. The differential diagnosis also lists a panic attack with the highest likelihood compared to other conditions such as pericarditis, spontaneous pneumothorax, and pulmonary embolism in this age group. Considering the cluster association and the prevalent symptoms, a panic attack is the most likely diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Psychosomatic relaxation techniques and diaphragmatic breathing exercises.
+    - **Goals**: To teach the patient how to manage symptoms of anxiety that can cause or exacerbate a panic attack.
+    - **Exercises**: Guided breathing exercises aimed at reducing hyperventilation and promoting relaxation.
+    - **Manual Therapy**: Not typically used for panic disorder; however, general relaxation massages may be beneficial.
+    - **Techniques**: Stress management and coping strategy sessions.
+
+2. **Exercise Recommendations from the Exercise List**: Progressive muscle relaxation exercises.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Cognitive-behavioral therapy (CBT) is recommended to help the patient identify triggers and develop coping strategies.
+
+### Pain Medicine Treatments
+- Sedative or anxiolytic medications may be prescribed for short-term management under the supervision of a psychiatrist, given that this is an acute occurrence related to panic attacks.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Psychological assessment to determine if there are underlying anxiety disorders triggering panic attacks."
+test_1040,Viral pharyngitis,Viral pharyngitis,Viral pharyngitis,"### Diagnoses
+1. **Diagnosis**: Viral pharyngitis
+
+2. **Explanations of Diagnose**: 
+   The patient, a 40-year-old female, presents with symptoms that are most consistent with viral pharyngitis. The evidence gathered (symptoms and test results) aligns with this diagnosis, supported by its presence in both the differential diagnosis and the KARE Knowledge Graph where viral pharyngitis shares associated symptoms such as sore throat (E_55_@_V_137), cough (E_55_@_V_20), and throat discomfort (E_59_@_4). The similarity in symptoms with acute laryngitis and acute otitis media has been considered, but the pattern of evidences specific to viral pharyngitis, unlike bronchitis, URTI or other infections, strengthens the conclusion. Other conditions like possible NSTEMI/STEMI and unstable angina in the differential diagnosis list are less likely given the primary respiratory and pharyngitis symptoms. 
+
+### Instructive Question
+1. **Questions**: Pain restriction; Location; Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Encourage adequate fluid intake, voice rest, humidified air, and potentially throat lozenges or mild analgesics as needed for pain relief.
+    - **Goals**: Reduce associated pain, inflammation and throat irritation, improve overall comfort, and prevent secondary complications.
+    - **Exercises**: Breathing exercises to promote nasal breathing and decrease throat dryness. 
+    - **Manual Therapy**: Not applicable for this condition.
+    - **Techniques**: Use of warm saline gargles to soothe the throat.
+
+2. **Exercise Recommendations from the Exercise List**: Gentle neck stretching to alleviate tension.
+
+### Pain Psychologist Treatments (if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Mild analgesics such as acetaminophen or ibuprofen for pain relief.
+- Throat lozenges or sprays containing local anesthetics, if required.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: If symptoms persist or worsen, consider a throat swab or culture to rule out bacterial infection or other underlying conditions."
+test_1041,Myasthenia gravis,Myasthenia gravis,Myasthenia gravis,"### Diagnoses
+1. **Diagnosis**: Myasthenia gravis.
+   
+2. **Explanations of diagnose**: The patient has been diagnosed with Myasthenia gravis, which is consistent with the pathology identified and strong evidence from the patient profile, including symptoms consistent with those associated in the knowledge graph cluster for Myasthenia gravis such as E_52, E_63, and E_176. The differential diagnosis suggests Myasthenia gravis as the most likely condition leading, and the knowledge graph supports this with clustered associations of related symptoms.
+
+### Instructive question
+1. **Questions**: Symptom onset timing; Muscle weakness location; Any changes in vision or speech.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**:
+     - Neuromuscular facilitation techniques to support muscle strength.
+     - Respiratory exercises to assist with diaphragmatic function.
+   - **Goals**:
+     - Improve muscle use efficiency and reduce fatigue.
+     - Enhance quality of life by improving physical function.
+   - **Exercises**:
+     - Low-resistance endurance exercises.
+     - Breathing exercises for respiratory muscle strength.
+   - **Manual Therapy**:
+     - Gentle muscle manipulation to support neuromuscular integration as tolerated.
+   - **Techniques**:
+     - Integrated physical therapy focusing on balancing daily activities efficiently.
+
+2. **Exercise Recommendations from the Exercise List**:
+   - Progressive resistance exercises for upper and lower limb endurance.
+   - Balance exercises for postural control.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Cholinesterase inhibitors such as pyridostigmine to improve neuromuscular transmission.
+- Corticosteroids or immunosuppressants for long-term symptom control.
+- Consideration of IVIg therapy in severe cases.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Electromyography (EMG) to assess neuromuscular junction functionality."
+test_1042,Acute dystonic reactions,Acute dystonic reactions,Acute dystonic reactions,"### Diagnoses
+1. **Diagnosis**: Acute dystonic reactions
+
+2. **Explanations of diagnose**: Acute dystonic reactions consist of involuntary muscle contractions, such as oculogyric crisis, torticollis, or laryngospasm. The condition typically occurs as a side effect of certain medications, especially antipsychotics or antiemetics, and presents symptoms like sustained muscle contractions, abnormal postures, and discomfort. The differential diagnosis includes Myasthenia gravis, typically autoimmune with fluctuating muscle weakness, as well as Guillain-Barre syndrome featuring rapid onset muscle paralysis. The patient’s listed evidences (E_15, E_62, E_168, E_172, E_180, E_192, E_193) align with acute dystonic reactions rather than systemic autoimmune conditions.
+
+### Instructive question
+1. **Questions**: Pain restriction; Symptom; Medication history.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Provide range of motion exercises and muscle relaxation techniques to alleviate tension.
+    - **Goals**: Mitigate muscle spasms and enhance functional mobility.
+    - **Exercises**: Light stretching and flexibility exercises focusing on affected muscle groups.
+    - **Manual Therapy**: Gentle massage to relieve tension in targeted muscles.
+    - **Techniques**: Application of heat therapy to relax muscles and reduce acute spasms.
+
+2. **Exercise Recommendations from the Exercise List**: Initiate slow-paced breathing exercises to reduce anxiety associated with muscle spasms.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Administer anticholinergic medications such as Benztropine or diphenhydramine to relieve symptoms. Monitor and adjust current medication regimens to prevent recurrence.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider evaluating current medication history for potential triggers of acute dystonic reactions and review neurological status to exclude other neuromuscular disorders."
+test_1043,URTI,URTI,URTI,"### Diagnoses
+1. **Diagnosis**: URTI
+
+2. **Explanations of diagnose**: URTI (Upper Respiratory Tract Infection) is suggested based on the predominant symptoms and their alignment with common manifestations of URTI in the provided medical evidence and differential diagnosis list. The patient exhibits evidence markers E_41, E_58_@_3, and E_204_@_V_10, which are consistent with URTI as per the clustering analysis of similar conditions, such as bronchitis and influenza. The KARE Knowledge Graph Communities emphasize URTI in the context of similar clusters adding weight to this diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction, Location, Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Address any upper body discomfort or pain experienced due to persistent coughing or congestion.
+    - **Goals**: Improve airflow, reduce congestion, alleviate discomfort from coughing or muscle strain.
+    - **Exercises**: Gentle neck and shoulder stretches to relieve tension, chest opening exercises to enhance breathing.
+    - **Manual Therapy**: Light massage to upper back and pectoral muscles to ease respiratory musculature.
+    - **Techniques**: Breathing exercises to improve lung capacity and efficiency.
+
+2. **Exercise Recommendations from the Exercise List**: 
+   - Diaphragmatic breathing
+   - Neck and shoulder rolls
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Analgesics to address any associated muscle aches or headaches.
+- Decongestants may be used to alleviate nasal congestion.
+- Over-the-counter medications such as ibuprofen or paracetamol to address fever or discomfort.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Monitor symptoms progression and, if they persist beyond expected timeframes or worsen, consider further diagnostic imaging or laboratory testing to rule out more severe conditions such as pneumonia or bronchitis."
+test_1044,Anaphylaxis,Localized edema,Localized edema,"### Diagnoses
+1. **Diagnosis**: Anaphylaxis
+
+2. **Explanations of diagnose**: The patient's symptoms and evidence suggest the possibility of anaphylaxis, especially given the differential diagnosis probability for this condition and the presence of localized edema. Anaphylaxis can cause localized edema due to the release of histamines and other chemicals during an allergic reaction.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Not primarily applicable, as anaphylaxis is an acute medical emergency requiring immediate intervention.
+    - **Goals**: Management of airway, breathing, and circulation; administration of epinephrine.
+    - **Exercises**: Not applicable.
+    - **Manual Therapy**: Not applicable.
+    - **Techniques**: Not applicable.
+
+2. **Exercise Recommendations from the Exercise List**: Not applicable.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable.
+
+### Pain Medicine Treatments
+- Immediate administration of epinephrine.
+- Antihistamines and corticosteroids may be given post-acute phase to manage symptoms.
+- Oxygen therapy, if necessary.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Allergy testing to identify potential allergens causing the reaction."
+test_1045,Anemia,Anemia,Anemia,"### Diagnoses
+1. **Diagnosis**: Anemia
+
+2. **Explanations of diagnose**: The diagnosis of anemia is supported both by the evidence from the patient's case and similar past patient cases. The symptoms and evidence listed (such as fatigue, pallor, dizziness) align with those commonly associated with anemia. Additionally, in the KARE Knowledge Graph, anemia appears prominently in correlated symptoms clusters, further justifying this diagnosis over the lesser probable cluster headache.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Energy conservation strategies, functional exercise training, and monitored physical activity.
+   - **Goals**: To improve endurance, enhance daily functioning, and manage fatigue associated with anemia.
+   - **Exercises**: Low-intensity aerobic exercises, stretching and flexibility exercises; gradually increase intensity as tolerated.
+   - **Manual Therapy**: Gentle soft tissue mobilization if indicated for muscle tension relief.
+   - **Techniques**: Breathing techniques to aid in oxygen utilization and improved circulation.
+
+2. **Exercise Recommendations from the Exercise List**:
+   - Walking or cycling at a comfortable pace, starting with short durations and gradually increasing as tolerated.
+   - Stretching exercises focusing on major muscle groups.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Treatment with iron supplements, vitamin B12, or folate depending on the type of anemia.
+- Monitoring of hemoglobin and hematocrit levels to adjust treatment accordingly.
+- Consideration of dietary modifications to include iron-rich foods.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Hematology consultation for specialized assessment and management if the anemia is persistent or unresponsive to initial treatments."
+test_1046,Anaphylaxis,Anaphylaxis,Anaphylaxis,"### Diagnoses
+1. **Diagnosis**: Anaphylaxis
+
+2. **Explanations of diagnose**: Based on the evidence and similar past patient cases, as well as the differential diagnosis probability and symptoms, Anaphylaxis is identified as the primary diagnosis. Anaphylaxis is a severe allergic reaction that can lead to life-threatening symptoms such as difficulty breathing, drop in blood pressure, and skin reactions. The clustering analysis also supports the presence of typical symptoms associated with Anaphylaxis.
+
+### Instructive question
+1. **Questions**: Symptom progression and time course, Specific allergen exposure history, Presence of respiratory distress or cutaneous symptoms
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Immediate removal of the known allergen, administration of epinephrine, monitoring of vital signs, and supportive care.
+    - **Goals**: To stabilize the patient's condition by halting the allergic reaction and preventing complications.
+    - **Exercises**: Breathing exercises can be beneficial after stabilization to aid recovery.
+    - **Manual Therapy**: Not applicable for acute anaphylaxis.
+    - **Techniques**: Use of auto-injector epinephrine and emergency medical response.
+
+2. **Exercise Recommendations from the Exercise List**: Not applicable due to acute nature of Anaphylaxis.
+
+### Pain Psychologist Treatments(if applicable)
+Not applicable
+
+### Pain Medicine Treatments
+For anaphylaxis, the immediate medical treatment involves the administration of epinephrine. Supportive treatments may include antihistamines and corticosteroids depending on the patient's condition and response.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Allergy testing to identify specific trigger allergens and education on allergen avoidance."
+test_1047,Bronchitis,Bronchitis,Bronchitis,"### Diagnoses
+1. **Diagnosis**: Bronchitis.
+
+2. **Explanations of diagnose**: The patient is a 29-year-old male with symptoms and evidence indicating a high likelihood of bronchitis, as suggested by both differentiated diagnosis and pathology. The case's relevant evidence aligns closely with documented symptoms and patterns in both retrieved patient cases and medical knowledge, such as persistent cough and chest discomfort, often linked to bronchitis. Additionally, the patient's listed evidence and the similarities between evidence codes in both clusters highlight conditions favoring bronchitis over other differential diagnoses like pneumonia or tuberculosis.
+
+### Instructive question
+1. **Questions**: Symptom duration; Associated symptoms such as fever or phlegm characteristics; History of similar episodes.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+    - **Specific interventions/treatments**: Breathing exercises to improve lung capacity, posture correction to alleviate chest discomfort, and techniques to manage coughing effectively.
+    - **Goals**: Enhance airway clearance, improve respiratory function, and reduce overall discomfort associated with bronchitis.
+    - **Exercises**: Diaphragmatic breathing, pursed-lip breathing, and thoracic expansion exercises.
+    - **Manual Therapy**: Gentle thoracic mobilization to alleviate stiffness and improve breathing mechanics.
+    - **Techniques**: Instruction in effective coughing techniques and use of incentive spirometry.
+
+2. **Exercise Recommendations from the Exercise List**: Walking, stretching of the upper back and chest, and yoga to assist in expansion of lung capacity and relaxation.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Use of bronchodilators to alleviate bronchospasm if present, and corticosteroids to reduce inflammation.
+- Over-the-counter analgesics like acetaminophen for pain relief associated with coughing episodes.
+- Consideration of mucolytics if excessive mucus production.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Perform a chest X-ray to rule out pneumonia or other underlying conditions.
+2. **Evaluation 2**: Conduct spirometry to assess for any underlying obstructive airway disease.
+3. **Evaluation 3**: Gather detailed patient history regarding respiratory symptoms, exposure history, and previous exacerbative episodes."
+test_1048,Anaphylaxis,Anaphylaxis,Anaphylaxis,"### Diagnoses
+1. **Diagnosis**: Anaphylaxis.
+
+2. **Explanations of diagnose**: The patient's diagnosis is consistent with anaphylaxis, marked by the differential diagnosis which includes a high probability for anaphylaxis (0.1548). Relevant evidences, including E_82, E129, and E_130_@_V_156, coincide with typical markers for anaphylaxis as noted in both the patient's profile and retrieved clusters. There is a noted pathology of anaphylaxis which aligns with the medical knowledge cluster information, where anaphylaxis shares symptom clusters with respiratory and gastrointestinal conditions, further validating the diagnosis.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Immediate administration of epinephrine should be the first-line treatment. Subsequent management includes oxygen support, intravenous fluids, and monitoring in a clinical setting.
+   - **Goals**: To rapidly address and reverse the life-threatening symptoms of anaphylaxis, ensuring stabilization and preventing recurrence.
+   - **Exercises**: Not applicable in immediate crisis intervention. Consider lifestyle adaptation programs post-recovery.
+   - **Manual Therapy**: Not applicable for acute anaphylactic conditions.
+   - **Techniques**: Monitoring and supportive breathing techniques if applicable, likely in an outpatient setting post-stabilization.
+
+2. **Exercise Recommendations from the Exercise List**: Post-recovery, consider aerobic and endurance exercises tailored to maintaining cardiopulmonary wellness.
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+Immediate use of epinephrine intramuscular injection as emergency medicine. Antihistamines and corticosteroids may be administered to manage the acute episode and prevent further histamine release.
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Allergy testing to identify specific allergens responsible for triggering anaphylactic reactions, followed by the creation of an avoidance strategy and potential immunotherapy considerations."
+test_1049,Bronchiectasis,Bronchiectasis,Bronchiectasis,"### Diagnoses
+1. **Diagnosis**: Bronchiectasis
+
+2. **Explanations of diagnose**: Given the patient's age of 72 and the differential diagnosis ranking, Bronchiectasis is the most appropriate diagnosis. The evidence gathered aligns with associated symptoms of Bronchiectasis present in the conditions grouped together such as chronic respiratory symptoms evident in the medical knowledge cluster.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Airway clearance techniques, breathing exercises, and strengthening exercises
+   - **Goals**: To improve lung capacity, enhance mucociliary clearance, and increase overall physical endurance
+   - **Exercises**: Pursed lip breathing, diaphragmatic breathing, and postural drainage techniques
+   - **Manual Therapy**: Chest physiotherapy to assist with mucus clearance
+   - **Techniques**: Percussion, vibration, and huff coughing techniques
+
+2. **Exercise Recommendations from the Exercise List**: 
+   - Aerobic exercises such as walking or cycling, tailored to patient tolerance
+   - Daily stretching routines focusing on the thoracic region to improve mobility
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Bronchodilators and possible inhaled corticosteroids to manage symptoms and prevent exacerbations
+- Mucolytics to assist with mucus clearance
+- Antibiotics as required for managing infections associated with bronchiectasis
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Consider a high-resolution CT scan of the chest to assess bronchial dilation and further evaluate structural lung changes consistent with bronchiectasis."
+test_1050,Myasthenia gravis,Myasthenia gravis,Myasthenia gravis,"### Diagnoses
+1. **Diagnosis**: Myasthenia gravis.
+
+2. **Explanations of diagnose**: 
+   - Myasthenia gravis is a neuromuscular disorder characterized by weakness and rapid fatigue of any of the muscles under voluntary control. It is caused by a breakdown in the normal communication between nerves and muscles. In the current patient, the retrieved evidence and pathology support this diagnosis.
+   - The symptoms and evidence associated (E_172, E_28, E_38, E_52, E_66, E_90) fit within the Myasthenia Gravis cluster, which also shares associations with Guillain-Barre syndrome and acute dystonic reactions, but the presentation and age make MG more plausible.
+
+### Instructive question
+1. **Questions**: Pain restriction; Location; Symptom.
+
+### Pain/General Physiotherapist Treatments
+1. **Session No.: General Overview**
+   - **Specific interventions/treatments**: Encourage regular, gentle exercise to maintain muscle strength.
+   - **Goals**: Improve muscle endurance and prevent muscle atrophy due to disuse.
+   - **Exercises**: Breathing exercises, light resistance training, and flexibility exercises.
+   - **Manual Therapy**: Non-applicable due to neuromuscular weakness focus.
+   - **Techniques**: Educate on energy conservation techniques and safe exercise practices to avoid fatigue.
+
+2. **Exercise Recommendations from the Exercise List**:
+   - Gentle walking
+   - Stretching routines
+   - Muscle strengthening exercises using body weight
+
+### Pain Psychologist Treatments(if applicable)
+1. **Treatment 1**: Not applicable
+
+### Pain Medicine Treatments
+- Anticholinesterase medications like pyridostigmine to improve neuromuscular transmission.
+- Corticosteroids such as prednisone to reduce autoantibody production.
+- Immunosuppressant drugs might be considered in more severe cases. 
+
+### Recommendations for Further Evaluations
+1. **Evaluation 1**: Neurology consultation for electrophysiological studies and acetylcholine receptor antibody testing to confirm MG."

@@ -1,0 +1,10 @@
+{
+    "AGE": 49,
+    "DIFFERENTIAL_DIAGNOSIS": "[['URTI', 0.6900532817767514], ['Chagas', 0.3099467182232486]]",
+    "SEX": "M",
+    "PATHOLOGY": "URTI",
+    "EVIDENCES": "['E_41', 'E_49', 'E_53', 'E_54_@_V_154', 'E_54_@_V_183', 'E_55_@_V_62', 'E_55_@_V_108', 'E_55_@_V_109', 'E_55_@_V_124', 'E_56_@_4', 'E_57_@_V_123', 'E_58_@_2', 'E_59_@_5', 'E_79', 'E_91', 'E_97', 'E_181', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_181",
+    "Participant No.": "train_26400",
+    "Processed Diagnosis": "URTI"
+}

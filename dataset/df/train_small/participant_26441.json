@@ -1,0 +1,10 @@
+{
+    "AGE": 46,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Possible NSTEMI / STEMI', 0.1069079891745426], ['Anemia', 0.08475940449897144], ['GERD', 0.08203557345978806], ['Myocarditis', 0.07721026894580955], ['Atrial fibrillation', 0.07400266640752919], ['Pancreatic neoplasm', 0.07236512109055421], ['Anaphylaxis', 0.06802138196548305], ['SLE', 0.06232888265878865], ['Pericarditis', 0.061125633990169854], ['Pulmonary neoplasm', 0.0609518767248032], ['Acute dystonic reactions', 0.0545587223951741], ['Chagas', 0.04566644481713751], ['Sarcoidosis', 0.04467909069075981], ['Scombroid food poisoning', 0.03451150501649248], ['Stable angina', 0.0332356590792989], ['PSVT', 0.029143345456894506], ['Unstable angina', 0.008496433627802709], ['Pulmonary embolism', 0.0]]",
+    "SEX": "F",
+    "PATHOLOGY": "Stable angina",
+    "EVIDENCES": "['E_53', 'E_54_@_V_154', 'E_54_@_V_183', 'E_54_@_V_198', 'E_55_@_V_29', 'E_55_@_V_55', 'E_55_@_V_101', 'E_55_@_V_160', 'E_55_@_V_197', 'E_56_@_8', 'E_57_@_V_30', 'E_57_@_V_31', 'E_57_@_V_39', 'E_57_@_V_163', 'E_57_@_V_174', 'E_58_@_8', 'E_59_@_3', 'E_66', 'E_69', 'E_70', 'E_71', 'E_89', 'E_105', 'E_143', 'E_204_@_V_10', 'E_225']",
+    "INITIAL_EVIDENCE": "E_89",
+    "Participant No.": "train_26441",
+    "Processed Diagnosis": "Stable angina"
+}

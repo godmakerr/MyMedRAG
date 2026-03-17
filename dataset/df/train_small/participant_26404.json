@@ -1,0 +1,10 @@
+{
+    "AGE": 68,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Pulmonary embolism', 0.2901782903452711], ['Localized edema', 0.2707390320291036], ['Possible NSTEMI / STEMI', 0.18129208298797245], ['Unstable angina', 0.1700925517208867], ['Stable angina', 0.08769804291676621]]",
+    "SEX": "M",
+    "PATHOLOGY": "Pulmonary embolism",
+    "EVIDENCES": "['E_45', 'E_53', 'E_54_@_V_179', 'E_54_@_V_192', 'E_55_@_V_51', 'E_55_@_V_106', 'E_55_@_V_120', 'E_55_@_V_127', 'E_55_@_V_159', 'E_56_@_1', 'E_57_@_V_55', 'E_57_@_V_127', 'E_57_@_V_128', 'E_57_@_V_170', 'E_58_@_2', 'E_59_@_8', 'E_151', 'E_152_@_V_119', 'E_159', 'E_196', 'E_204_@_V_4']",
+    "INITIAL_EVIDENCE": "E_151",
+    "Participant No.": "train_26404",
+    "Processed Diagnosis": "Pulmonary embolism"
+}

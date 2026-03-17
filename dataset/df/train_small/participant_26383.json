@@ -1,0 +1,10 @@
+{
+    "AGE": 17,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.2706692924740081], ['Bronchospasm / acute asthma exacerbation', 0.18724541106632459], ['Bronchiectasis', 0.17703679070317122], ['Pneumonia', 0.17194387929032348], ['Spontaneous rib fracture', 0.1660250432079035], ['URTI', 0.02707958325826916]]",
+    "SEX": "M",
+    "PATHOLOGY": "Bronchitis",
+    "EVIDENCES": "['E_53', 'E_54_@_V_181', 'E_55_@_V_56', 'E_55_@_V_170', 'E_56_@_1', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_4', 'E_77', 'E_79', 'E_97', 'E_123', 'E_204_@_V_10', 'E_209', 'E_214', 'E_219']",
+    "INITIAL_EVIDENCE": "E_219",
+    "Participant No.": "train_26383",
+    "Processed Diagnosis": "Bronchitis"
+}

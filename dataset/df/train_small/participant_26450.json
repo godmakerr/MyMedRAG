@@ -1,0 +1,10 @@
+{
+    "AGE": 53,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.16945936897236058], ['Acute COPD exacerbation / infection', 0.14625120776116868], ['URTI', 0.11531594397314339], ['Possible NSTEMI / STEMI', 0.11531594397314339], ['Unstable angina', 0.10838068948671167], ['Boerhaave', 0.10228803601265016], ['Anaphylaxis', 0.07822097068806555], ['GERD', 0.07109409986777804], ['Stable angina', 0.06034892892418904], ['Scombroid food poisoning', 0.033324810340789456]]",
+    "SEX": "F",
+    "PATHOLOGY": "Bronchitis",
+    "EVIDENCES": "['E_53', 'E_54_@_V_161', 'E_54_@_V_181', 'E_55_@_V_29', 'E_55_@_V_55', 'E_55_@_V_160', 'E_55_@_V_170', 'E_55_@_V_171', 'E_56_@_3', 'E_57_@_V_123', 'E_58_@_2', 'E_59_@_0', 'E_79', 'E_123', 'E_181', 'E_201', 'E_204_@_V_10', 'E_214', 'E_219']",
+    "INITIAL_EVIDENCE": "E_53",
+    "Participant No.": "train_26450",
+    "Processed Diagnosis": "Bronchitis"
+}

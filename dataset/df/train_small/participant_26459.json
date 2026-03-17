@@ -1,0 +1,10 @@
+{
+    "AGE": 54,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.2192420689899973], ['Pneumonia', 0.19050409792103665], ['URTI', 0.1748936239678674], ['Bronchiectasis', 0.14506340252715058], ['Tuberculosis', 0.13267000709734783], ['Chronic rhinosinusitis', 0.0794546197062333], ['Chagas', 0.05817217979036705]]",
+    "SEX": "M",
+    "PATHOLOGY": "URTI",
+    "EVIDENCES": "['E_41', 'E_48', 'E_53', 'E_54_@_V_154', 'E_55_@_V_62', 'E_55_@_V_108', 'E_55_@_V_109', 'E_55_@_V_124', 'E_55_@_V_166', 'E_56_@_6', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_3', 'E_77', 'E_91', 'E_181', 'E_204_@_V_10', 'E_222']",
+    "INITIAL_EVIDENCE": "E_181",
+    "Participant No.": "train_26459",
+    "Processed Diagnosis": "URTI"
+}

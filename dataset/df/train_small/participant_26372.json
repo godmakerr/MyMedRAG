@@ -1,0 +1,10 @@
+{
+    "AGE": 51,
+    "DIFFERENTIAL_DIAGNOSIS": "[['GERD', 0.4617175577874126], ['Possible NSTEMI / STEMI', 0.32861161639107506], ['Pericarditis', 0.20967082582151228]]",
+    "SEX": "M",
+    "PATHOLOGY": "GERD",
+    "EVIDENCES": "['E_53', 'E_54_@_V_112', 'E_54_@_V_181', 'E_54_@_V_193', 'E_55_@_V_101', 'E_55_@_V_103', 'E_55_@_V_187', 'E_55_@_V_197', 'E_56_@_8', 'E_57_@_V_101', 'E_58_@_7', 'E_59_@_1', 'E_70', 'E_78', 'E_98', 'E_124', 'E_173', 'E_204_@_V_10', 'E_217']",
+    "INITIAL_EVIDENCE": "E_173",
+    "Participant No.": "train_26372",
+    "Processed Diagnosis": "GERD"
+}

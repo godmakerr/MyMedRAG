@@ -1,0 +1,10 @@
+{
+    "AGE": 30,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Possible NSTEMI / STEMI', 0.472648340329587], ['Pericarditis', 0.14578370037004443], ['Chagas', 0.13639259905526924], ['Anaphylaxis', 0.13639259905526924], ['Scombroid food poisoning', 0.10878276118983012]]",
+    "SEX": "F",
+    "PATHOLOGY": "Possible NSTEMI / STEMI",
+    "EVIDENCES": "['E_2', 'E_53', 'E_54_@_V_154', 'E_54_@_V_192', 'E_54_@_V_193', 'E_54_@_V_196', 'E_55_@_V_29', 'E_55_@_V_55', 'E_55_@_V_56', 'E_55_@_V_159', 'E_55_@_V_178', 'E_56_@_5', 'E_57_@_V_30', 'E_57_@_V_31', 'E_57_@_V_33', 'E_57_@_V_39', 'E_57_@_V_174', 'E_58_@_8', 'E_59_@_9', 'E_69', 'E_70', 'E_79', 'E_104', 'E_105', 'E_108', 'E_148', 'E_191', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_148",
+    "Participant No.": "train_26415",
+    "Processed Diagnosis": "Possible NSTEMI / STEMI"
+}

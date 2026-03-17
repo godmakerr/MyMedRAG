@@ -1,0 +1,10 @@
+{
+    "AGE": 67,
+    "DIFFERENTIAL_DIAGNOSIS": "[['GERD', 0.5022171947970246], ['Boerhaave', 0.3424762306849599], ['Pancreatic neoplasm', 0.15530657451801538]]",
+    "SEX": "F",
+    "PATHOLOGY": "GERD",
+    "EVIDENCES": "['E_53', 'E_54_@_V_112', 'E_54_@_V_161', 'E_54_@_V_179', 'E_54_@_V_180', 'E_54_@_V_181', 'E_54_@_V_196', 'E_55_@_V_103', 'E_55_@_V_197', 'E_56_@_6', 'E_57_@_V_29', 'E_57_@_V_101', 'E_58_@_4', 'E_59_@_3', 'E_78', 'E_79', 'E_124', 'E_173', 'E_204_@_V_10', 'E_210', 'E_215', 'E_217']",
+    "INITIAL_EVIDENCE": "E_210",
+    "Participant No.": "train_26377",
+    "Processed Diagnosis": "GERD"
+}

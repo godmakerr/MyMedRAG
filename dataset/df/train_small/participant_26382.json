@@ -1,0 +1,10 @@
+{
+    "AGE": 48,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.06445706543720069], ['Bronchiectasis', 0.062368861361259714], ['Pulmonary embolism', 0.06116408502527494], ['Pulmonary neoplasm', 0.060848089023291085], ['Pericarditis', 0.05875235635751494], ['Panic attack', 0.053175028131621324], ['Pneumonia', 0.05277279766838807], ['Unstable angina', 0.051437514722534085], ['Possible NSTEMI / STEMI', 0.0513994991972585], ['Spontaneous pneumothorax', 0.04976073691490745], ['Acute COPD exacerbation / infection', 0.048072457237330814], ['Myocarditis', 0.04574360687252909], ['Stable angina', 0.045176558161536214], ['Spontaneous rib fracture', 0.044028723309468665], ['Tuberculosis', 0.04350739912872242], ['Guillain-Barr\u00e9 syndrome', 0.03440637976280392], ['Bronchospasm / acute asthma exacerbation', 0.03338887072605276], ['Atrial fibrillation', 0.03286431445345236], ['Acute dystonic reactions', 0.024229329779814363], ['Myasthenia gravis', 0.024229329779814363], ['Anemia', 0.024229329779814363], ['Sarcoidosis', 0.02104521366311934], ['PSVT', 0.012942453506290513]]",
+    "SEX": "F",
+    "PATHOLOGY": "Pneumonia",
+    "EVIDENCES": "['E_45', 'E_53', 'E_54_@_V_179', 'E_55_@_V_55', 'E_55_@_V_159', 'E_56_@_6', 'E_57_@_V_123', 'E_58_@_7', 'E_59_@_4', 'E_66', 'E_77', 'E_78', 'E_95', 'E_106', 'E_118', 'E_123', 'E_124', 'E_129', 'E_130_@_V_156', 'E_131_@_V_12', 'E_132_@_6', 'E_133_@_V_84', 'E_133_@_V_85', 'E_133_@_V_194', 'E_134_@_4', 'E_135_@_V_10', 'E_136_@_1', 'E_161', 'E_175', 'E_196', 'E_201', 'E_204_@_V_10', 'E_219', 'E_220']",
+    "INITIAL_EVIDENCE": "E_219",
+    "Participant No.": "train_26382",
+    "Processed Diagnosis": "Pneumonia"
+}

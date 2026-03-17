@@ -1,0 +1,10 @@
+{
+    "AGE": 57,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.27235574032370874], ['Bronchiectasis', 0.20980178445128608], ['Pneumonia', 0.18085990899087884], ['Tuberculosis', 0.1717361238958971], ['Pulmonary neoplasm', 0.16524644233822927]]",
+    "SEX": "F",
+    "PATHOLOGY": "Bronchiectasis",
+    "EVIDENCES": "['E_18', 'E_45', 'E_47', 'E_77', 'E_118', 'E_123', 'E_201', 'E_204_@_V_10', 'E_227']",
+    "INITIAL_EVIDENCE": "E_201",
+    "Participant No.": "train_26396",
+    "Processed Diagnosis": "Bronchiectasis"
+}

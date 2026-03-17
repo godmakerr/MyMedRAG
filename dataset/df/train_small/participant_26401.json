@@ -1,0 +1,10 @@
+{
+    "AGE": 10,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.5295150093660963], ['Whooping cough', 0.4704849906339037]]",
+    "SEX": "F",
+    "PATHOLOGY": "Whooping cough",
+    "EVIDENCES": "['E_40', 'E_70', 'E_112', 'E_124', 'E_166', 'E_204_@_V_10', 'E_209']",
+    "INITIAL_EVIDENCE": "E_166",
+    "Participant No.": "train_26401",
+    "Processed Diagnosis": "Whooping cough"
+}

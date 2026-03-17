@@ -1,0 +1,10 @@
+{
+    "AGE": 15,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Localized edema', 0.6777681507104216], ['Chagas', 0.20409348743936384], ['Anaphylaxis', 0.11813836185021441]]",
+    "SEX": "M",
+    "PATHOLOGY": "Localized edema",
+    "EVIDENCES": "['E_22', 'E_44', 'E_53', 'E_54_@_V_183', 'E_54_@_V_192', 'E_55_@_V_34', 'E_55_@_V_35', 'E_55_@_V_51', 'E_55_@_V_52', 'E_55_@_V_73', 'E_56_@_7', 'E_57_@_V_123', 'E_58_@_7', 'E_59_@_6', 'E_106', 'E_109', 'E_126', 'E_137', 'E_151', 'E_152_@_V_35', 'E_152_@_V_43', 'E_152_@_V_72', 'E_152_@_V_119', 'E_152_@_V_120', 'E_158', 'E_186', 'E_197', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_151",
+    "Participant No.": "train_26434",
+    "Processed Diagnosis": "Localized edema"
+}

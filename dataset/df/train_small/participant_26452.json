@@ -1,0 +1,10 @@
+{
+    "AGE": 36,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Unstable angina', 0.09889244302308563], ['Possible NSTEMI / STEMI', 0.08966191665880818], ['Acute pulmonary edema', 0.08636647702490488], ['Panic attack', 0.08284828392475439], ['Spontaneous pneumothorax', 0.08003680303531585], ['Stable angina', 0.06575534665053412], ['Boerhaave', 0.06479832312130525], ['Pericarditis', 0.06307119201291517], ['Atrial fibrillation', 0.059653468689552916], ['GERD', 0.05445665243203338], ['Pulmonary embolism', 0.0540102232231645], ['Anaphylaxis', 0.05355815922221579], ['Guillain-Barr\u00e9 syndrome', 0.05142928563132273], ['Acute dystonic reactions', 0.036217036796435016], ['Scombroid food poisoning', 0.03346146757195693], ['PSVT', 0.019345863840772907], ['Chagas', 0.006437057140922352]]",
+    "SEX": "M",
+    "PATHOLOGY": "Unstable angina",
+    "EVIDENCES": "['E_13', 'E_14', 'E_50', 'E_53', 'E_54_@_V_198', 'E_55_@_V_29', 'E_55_@_V_101', 'E_55_@_V_159', 'E_55_@_V_160', 'E_55_@_V_197', 'E_56_@_6', 'E_57_@_V_33', 'E_57_@_V_39', 'E_57_@_V_163', 'E_57_@_V_194', 'E_57_@_V_195', 'E_58_@_6', 'E_59_@_6', 'E_66', 'E_69', 'E_70', 'E_71', 'E_78', 'E_79', 'E_148', 'E_204_@_V_10', 'E_218', 'E_225']",
+    "INITIAL_EVIDENCE": "E_218",
+    "Participant No.": "train_26452",
+    "Processed Diagnosis": "Unstable angina"
+}

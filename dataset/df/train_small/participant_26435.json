@@ -1,0 +1,10 @@
+{
+    "AGE": 59,
+    "DIFFERENTIAL_DIAGNOSIS": "[['HIV (initial infection)', 0.33987335207060215], ['Chagas', 0.2382280446241943], ['Influenza', 0.20143964411405008], ['Scombroid food poisoning', 0.08718128433189412], ['Pancreatic neoplasm', 0.07266974009956738], ['Anemia', 0.04491123583785241], ['Sarcoidosis', 0.01569669892183959]]",
+    "SEX": "M",
+    "PATHOLOGY": "HIV (initial infection)",
+    "EVIDENCES": "['E_9', 'E_27', 'E_51', 'E_53', 'E_54_@_V_154', 'E_54_@_V_161', 'E_54_@_V_198', 'E_55_@_V_166', 'E_56_@_8', 'E_57_@_V_123', 'E_58_@_4', 'E_59_@_0', 'E_61', 'E_88', 'E_91', 'E_97', 'E_129', 'E_130_@_V_138', 'E_131_@_V_10', 'E_132_@_0', 'E_133_@_V_90', 'E_133_@_V_91', 'E_133_@_V_95', 'E_133_@_V_96', 'E_133_@_V_111', 'E_134_@_8', 'E_135_@_V_12', 'E_136_@_0', 'E_144', 'E_148', 'E_162', 'E_189', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_144",
+    "Participant No.": "train_26435",
+    "Processed Diagnosis": "HIV (initial infection)"
+}

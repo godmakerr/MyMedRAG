@@ -1,0 +1,10 @@
+{
+    "AGE": 53,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Pericarditis', 0.22636307850743048], ['Pulmonary embolism', 0.15232150680850648], ['Possible NSTEMI / STEMI', 0.15088405039032987], ['Unstable angina', 0.1415630110365973], ['Boerhaave', 0.14027015879418564], ['Stable angina', 0.07298849298049345], ['GERD', 0.06735371586098865], ['Spontaneous pneumothorax', 0.04825598562146822]]",
+    "SEX": "M",
+    "PATHOLOGY": "Pericarditis",
+    "EVIDENCES": "['E_0', 'E_3', 'E_53', 'E_54_@_V_179', 'E_54_@_V_192', 'E_55_@_V_101', 'E_55_@_V_159', 'E_55_@_V_160', 'E_56_@_8', 'E_57_@_V_39', 'E_57_@_V_170', 'E_57_@_V_171', 'E_58_@_6', 'E_59_@_5', 'E_204_@_V_10', 'E_217', 'E_220']",
+    "INITIAL_EVIDENCE": "E_217",
+    "Participant No.": "train_26381",
+    "Processed Diagnosis": "Pericarditis"
+}

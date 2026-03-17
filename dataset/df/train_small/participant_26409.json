@@ -1,0 +1,10 @@
+{
+    "AGE": 15,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Anemia', 1.0]]",
+    "SEX": "M",
+    "PATHOLOGY": "Anemia",
+    "EVIDENCES": "['E_7', 'E_53', 'E_54_@_V_161', 'E_54_@_V_182', 'E_55_@_V_25', 'E_56_@_3', 'E_57_@_V_123', 'E_58_@_8', 'E_59_@_3', 'E_88', 'E_113', 'E_140', 'E_179', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_179",
+    "Participant No.": "train_26409",
+    "Processed Diagnosis": "Anemia"
+}

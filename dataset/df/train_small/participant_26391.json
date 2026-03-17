@@ -1,0 +1,10 @@
+{
+    "AGE": 62,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.6103965273228279], ['Viral pharyngitis', 0.38960347267717205]]",
+    "SEX": "M",
+    "PATHOLOGY": "Viral pharyngitis",
+    "EVIDENCES": "['E_53', 'E_54_@_V_161', 'E_54_@_V_181', 'E_55_@_V_20', 'E_55_@_V_21', 'E_55_@_V_137', 'E_55_@_V_148', 'E_56_@_5', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_0', 'E_79', 'E_201', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_201",
+    "Participant No.": "train_26391",
+    "Processed Diagnosis": "Viral pharyngitis"
+}

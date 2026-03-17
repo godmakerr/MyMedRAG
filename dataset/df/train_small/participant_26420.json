@@ -1,0 +1,10 @@
+{
+    "AGE": 45,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchospasm / acute asthma exacerbation', 0.09678286055214982], ['Bronchitis', 0.08389779356044244], ['Pulmonary neoplasm', 0.07815539688794135], ['Acute COPD exacerbation / infection', 0.07332722880749283], ['Pneumonia', 0.06174147916925271], ['Pulmonary embolism', 0.058887797864885474], ['Tuberculosis', 0.056594280421782404], ['Acute pulmonary edema', 0.05516044345393916], ['Anaphylaxis', 0.05516044345393916], ['Guillain-Barr\u00e9 syndrome', 0.05041985838903869], ['Atrial fibrillation', 0.04816008229343768], ['Myocarditis', 0.0475614302623819], ['Bronchiectasis', 0.038050847753805406], ['Acute dystonic reactions', 0.0355061876541934], ['Myasthenia gravis', 0.0355061876541934], ['Anemia', 0.0355061876541934], ['Scombroid food poisoning', 0.03280470330779679], ['PSVT', 0.018966153297515814], ['SLE', 0.016437669988954847], ['Possible NSTEMI / STEMI', 0.01068648378633173], ['Chagas', 0.01068648378633173]]",
+    "SEX": "M",
+    "PATHOLOGY": "Bronchospasm / acute asthma exacerbation",
+    "EVIDENCES": "['E_46', 'E_66', 'E_87', 'E_101', 'E_116', 'E_119', 'E_124', 'E_201', 'E_204_@_V_10', 'E_214', 'E_222']",
+    "INITIAL_EVIDENCE": "E_201",
+    "Participant No.": "train_26420",
+    "Processed Diagnosis": "Bronchospasm / acute asthma exacerbation"
+}

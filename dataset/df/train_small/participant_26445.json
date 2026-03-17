@@ -1,0 +1,10 @@
+{
+    "AGE": 23,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Scombroid food poisoning', 0.44141855682836706], ['Anaphylaxis', 0.2891047899944234], ['Anemia', 0.2694766531772096]]",
+    "SEX": "M",
+    "PATHOLOGY": "Scombroid food poisoning",
+    "EVIDENCES": "['E_82', 'E_92', 'E_129', 'E_130_@_V_156', 'E_131_@_V_10', 'E_132_@_5', 'E_133_@_V_26', 'E_133_@_V_31', 'E_133_@_V_33', 'E_133_@_V_34', 'E_133_@_V_35', 'E_134_@_2', 'E_135_@_V_12', 'E_136_@_9', 'E_187', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_82",
+    "Participant No.": "train_26445",
+    "Processed Diagnosis": "Scombroid food poisoning"
+}

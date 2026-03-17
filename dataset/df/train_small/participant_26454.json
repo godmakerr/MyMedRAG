@@ -1,0 +1,10 @@
+{
+    "AGE": 55,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Cluster headache', 0.5925398490980863], ['Chagas', 0.20373007545095687], ['Anemia', 0.20373007545095687]]",
+    "SEX": "F",
+    "PATHOLOGY": "Cluster headache",
+    "EVIDENCES": "['E_25', 'E_53', 'E_54_@_V_112', 'E_54_@_V_179', 'E_54_@_V_180', 'E_54_@_V_192', 'E_55_@_V_89', 'E_55_@_V_108', 'E_55_@_V_126', 'E_55_@_V_166', 'E_56_@_8', 'E_57_@_V_123', 'E_58_@_10', 'E_59_@_10', 'E_78', 'E_127', 'E_181', 'E_184', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_127",
+    "Participant No.": "train_26454",
+    "Processed Diagnosis": "Cluster headache"
+}

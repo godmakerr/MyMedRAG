@@ -1,0 +1,10 @@
+{
+    "AGE": 25,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Possible NSTEMI / STEMI', 0.4295639228512433], ['Viral pharyngitis', 0.2136427453973372], ['Unstable angina', 0.20942139101288082], ['Stable angina', 0.14737194073853876]]",
+    "SEX": "F",
+    "PATHOLOGY": "Viral pharyngitis",
+    "EVIDENCES": "['E_41', 'E_45', 'E_48', 'E_49', 'E_53', 'E_54_@_V_181', 'E_55_@_V_20', 'E_55_@_V_21', 'E_55_@_V_163', 'E_56_@_9', 'E_57_@_V_123', 'E_58_@_4', 'E_59_@_4', 'E_79', 'E_91', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_53",
+    "Participant No.": "train_26402",
+    "Processed Diagnosis": "Viral pharyngitis"
+}

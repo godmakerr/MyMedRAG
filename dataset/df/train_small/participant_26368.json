@@ -1,0 +1,10 @@
+{
+    "AGE": 56,
+    "DIFFERENTIAL_DIAGNOSIS": "[['URTI', 0.08310321810031529], ['Pulmonary neoplasm', 0.0718132865871622], ['Possible NSTEMI / STEMI', 0.06687089977617879], ['Spontaneous pneumothorax', 0.065824576630363], ['Bronchitis', 0.0656854701789664], ['Panic attack', 0.0561625598732831], ['Unstable angina', 0.056133821049047954], ['Myocarditis', 0.051568853592492074], ['Stable angina', 0.047758198048402846], ['Guillain-Barr\u00e9 syndrome', 0.0463284160064809], ['Bronchospasm / acute asthma exacerbation', 0.04495833341511443], ['Atrial fibrillation', 0.04425201495373092], ['Spontaneous rib fracture', 0.039924473139102384], ['Bronchiectasis', 0.03496311890714885], ['Acute dystonic reactions', 0.032624951457722866], ['Myasthenia gravis', 0.032624951457722866], ['Anemia', 0.032624951457722866], ['Anaphylaxis', 0.032624951457722866], ['Tuberculosis', 0.031165613854496753], ['Scombroid food poisoning', 0.0206371433652856], ['PSVT', 0.017427098529912293], ['SLE', 0.015103795166372459], ['Chagas', 0.009819302995252403]]",
+    "SEX": "M",
+    "PATHOLOGY": "Bronchitis",
+    "EVIDENCES": "['E_53', 'E_54_@_V_181', 'E_55_@_V_55', 'E_56_@_5', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_2', 'E_66', 'E_79', 'E_97', 'E_123', 'E_181', 'E_201', 'E_204_@_V_10', 'E_209', 'E_219']",
+    "INITIAL_EVIDENCE": "E_97",
+    "Participant No.": "train_26368",
+    "Processed Diagnosis": "Bronchitis"
+}

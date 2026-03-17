@@ -1,0 +1,10 @@
+{
+    "AGE": 12,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Larygospasm', 1.0]]",
+    "SEX": "F",
+    "PATHOLOGY": "Larygospasm",
+    "EVIDENCES": "['E_125', 'E_194', 'E_204_@_V_10', 'E_222']",
+    "INITIAL_EVIDENCE": "E_194",
+    "Participant No.": "train_26443",
+    "Processed Diagnosis": "Larygospasm"
+}

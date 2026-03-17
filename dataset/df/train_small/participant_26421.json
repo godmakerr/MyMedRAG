@@ -1,0 +1,10 @@
+{
+    "AGE": 33,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Tuberculosis', 0.314386562376957], ['Bronchitis', 0.2955865201573755], ['Pulmonary neoplasm', 0.2542575550631018], ['Pneumonia', 0.13576936240256557]]",
+    "SEX": "F",
+    "PATHOLOGY": "Tuberculosis",
+    "EVIDENCES": "['E_2', 'E_44', 'E_45', 'E_61', 'E_78', 'E_91', 'E_162', 'E_201', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_162",
+    "Participant No.": "train_26421",
+    "Processed Diagnosis": "Tuberculosis"
+}

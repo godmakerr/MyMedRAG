@@ -1,0 +1,10 @@
+{
+    "AGE": 59,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Anemia', 0.16577743609853277], ['Possible NSTEMI / STEMI', 0.15465482678420608], ['Myocarditis', 0.12949829704647414], ['Acute pulmonary edema', 0.1281533876779774], ['Pulmonary neoplasm', 0.1022294617726108], ['Acute dystonic reactions', 0.09150676115589194], ['Cluster headache', 0.08939666484713185], ['Atrial fibrillation', 0.08089991684240885], ['Scombroid food poisoning', 0.057883247774766125]]",
+    "SEX": "M",
+    "PATHOLOGY": "Anemia",
+    "EVIDENCES": "['E_7', 'E_24', 'E_26', 'E_53', 'E_54_@_V_161', 'E_54_@_V_180', 'E_54_@_V_198', 'E_55_@_V_25', 'E_55_@_V_89', 'E_55_@_V_166', 'E_55_@_V_167', 'E_56_@_4', 'E_57_@_V_123', 'E_58_@_3', 'E_59_@_4', 'E_66', 'E_88', 'E_89', 'E_146', 'E_204_@_V_10', 'E_208']",
+    "INITIAL_EVIDENCE": "E_66",
+    "Participant No.": "train_26388",
+    "Processed Diagnosis": "Anemia"
+}

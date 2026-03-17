@@ -1,0 +1,10 @@
+{
+    "AGE": 24,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.41250510103707977], ['Bronchospasm / acute asthma exacerbation', 0.32592395811728986], ['Anaphylaxis', 0.18342543041984744], ['Scombroid food poisoning', 0.07814551042578294]]",
+    "SEX": "F",
+    "PATHOLOGY": "Bronchospasm / acute asthma exacerbation",
+    "EVIDENCES": "['E_46', 'E_87', 'E_101', 'E_116', 'E_124', 'E_201', 'E_204_@_V_10', 'E_214', 'E_222', 'E_226']",
+    "INITIAL_EVIDENCE": "E_201",
+    "Participant No.": "train_26426",
+    "Processed Diagnosis": "Bronchospasm / acute asthma exacerbation"
+}

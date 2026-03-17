@@ -1,0 +1,10 @@
+{
+    "AGE": 9,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.2227092716102866], ['Viral pharyngitis', 0.15552209068881745], ['Chronic rhinosinusitis', 0.14740508795525872], ['Cluster headache', 0.11420875118976452], ['Pneumonia', 0.11357948800385538], ['Chagas', 0.08921001947498113], ['Anemia', 0.08921001947498113], ['Acute rhinosinusitis', 0.06815527160205513]]",
+    "SEX": "M",
+    "PATHOLOGY": "Acute rhinosinusitis",
+    "EVIDENCES": "['E_53', 'E_54_@_V_192', 'E_55_@_V_32', 'E_55_@_V_89', 'E_55_@_V_108', 'E_55_@_V_109', 'E_55_@_V_126', 'E_56_@_2', 'E_57_@_V_89', 'E_57_@_V_122', 'E_57_@_V_167', 'E_58_@_2', 'E_59_@_1', 'E_79', 'E_103', 'E_116', 'E_118', 'E_120', 'E_124', 'E_125', 'E_181', 'E_182', 'E_201', 'E_204_@_V_10', 'E_209', 'E_226']",
+    "INITIAL_EVIDENCE": "E_103",
+    "Participant No.": "train_26432",
+    "Processed Diagnosis": "Acute rhinosinusitis"
+}

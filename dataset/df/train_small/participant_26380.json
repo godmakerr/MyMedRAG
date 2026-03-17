@@ -1,0 +1,10 @@
+{
+    "AGE": 48,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Anemia', 0.14337889855486113], ['Anaphylaxis', 0.10813228816122562], ['Myocarditis', 0.10289245030659461], ['Acute pulmonary edema', 0.10015838224666197], ['Panic attack', 0.09863965848718471], ['Guillain-Barr\u00e9 syndrome', 0.0915505955561942], ['Chagas', 0.08395915082317662], ['HIV (initial infection)', 0.07936260024405366], ['Acute dystonic reactions', 0.0644708797194496], ['Myasthenia gravis', 0.0644708797194496], ['Cluster headache', 0.06298421618114812]]",
+    "SEX": "M",
+    "PATHOLOGY": "Anemia",
+    "EVIDENCES": "['E_24', 'E_26', 'E_53', 'E_54_@_V_161', 'E_54_@_V_180', 'E_54_@_V_182', 'E_54_@_V_198', 'E_55_@_V_25', 'E_55_@_V_62', 'E_55_@_V_89', 'E_56_@_2', 'E_57_@_V_123', 'E_58_@_3', 'E_59_@_4', 'E_66', 'E_82', 'E_88', 'E_113', 'E_140', 'E_146', 'E_154', 'E_204_@_V_10', 'E_208']",
+    "INITIAL_EVIDENCE": "E_82",
+    "Participant No.": "train_26380",
+    "Processed Diagnosis": "Anemia"
+}

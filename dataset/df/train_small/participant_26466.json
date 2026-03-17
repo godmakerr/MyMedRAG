@@ -1,0 +1,10 @@
+{
+    "AGE": 35,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Panic attack', 0.09622928926666661], ['PSVT', 0.0801881063527831], ['Guillain-Barr\u00e9 syndrome', 0.07290853922571872], ['Possible NSTEMI / STEMI', 0.0662963612858886], ['Spontaneous pneumothorax', 0.06380765685102528], ['Pericarditis', 0.06306599784343371], ['Anemia', 0.05744353411232876], ['Anaphylaxis', 0.053042794117522454], ['Pulmonary embolism', 0.05245125286663561], ['Atrial fibrillation', 0.05209036299424581], ['Unstable angina', 0.05196905334591268], ['Acute pulmonary edema', 0.05126148913176718], ['Stable angina', 0.04913130517253626], ['GERD', 0.04018618109032623], ['Scombroid food poisoning', 0.03661954391884987], ['Acute dystonic reactions', 0.031625295808366795], ['Myasthenia gravis', 0.031625295808366795], ['Sarcoidosis', 0.025898507104138303], ['SLE', 0.014641002319482045], ['Chagas', 0.009518431384005316]]",
+    "SEX": "M",
+    "PATHOLOGY": "Panic attack",
+    "EVIDENCES": "['E_16', 'E_53', 'E_54_@_V_182', 'E_54_@_V_192', 'E_55_@_V_29', 'E_55_@_V_101', 'E_55_@_V_159', 'E_55_@_V_160', 'E_56_@_7', 'E_57_@_V_123', 'E_58_@_7', 'E_59_@_9', 'E_66', 'E_75', 'E_78', 'E_80', 'E_82', 'E_111', 'E_138', 'E_155', 'E_157', 'E_171', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_111",
+    "Participant No.": "train_26466",
+    "Processed Diagnosis": "Panic attack"
+}

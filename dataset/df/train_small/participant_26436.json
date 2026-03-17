@@ -1,0 +1,10 @@
+{
+    "AGE": 0,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Guillain-Barr\u00e9 syndrome', 1.0]]",
+    "SEX": "F",
+    "PATHOLOGY": "Guillain-Barr\u00e9 syndrome",
+    "EVIDENCES": "['E_83', 'E_93', 'E_156', 'E_157', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_93",
+    "Participant No.": "train_26436",
+    "Processed Diagnosis": "Guillain-Barr\u00e9 syndrome"
+}

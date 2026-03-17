@@ -1,0 +1,10 @@
+{
+    "AGE": 41,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Sarcoidosis', 1.0]]",
+    "SEX": "F",
+    "PATHOLOGY": "Sarcoidosis",
+    "EVIDENCES": "['E_9', 'E_53', 'E_54_@_V_181', 'E_55_@_V_63', 'E_55_@_V_67', 'E_55_@_V_68', 'E_55_@_V_69', 'E_55_@_V_70', 'E_56_@_3', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_4', 'E_130_@_V_11', 'E_131_@_V_10', 'E_132_@_0', 'E_133_@_V_123', 'E_134_@_0', 'E_135_@_V_10', 'E_136_@_0', 'E_163', 'E_198', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_9",
+    "Participant No.": "train_26422",
+    "Processed Diagnosis": "Sarcoidosis"
+}

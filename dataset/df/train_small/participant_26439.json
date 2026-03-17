@@ -1,0 +1,10 @@
+{
+    "AGE": 13,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Pericarditis', 0.1370179627566455], ['GERD', 0.1337775974617978], ['Myocarditis', 0.11543928943760794], ['Atrial fibrillation', 0.11148925596180927], ['PSVT', 0.10768322298449665], ['Anaphylaxis', 0.08439009755210723], ['Scombroid food poisoning', 0.06768777364128614], ['Acute dystonic reactions', 0.06768777364128614], ['Anemia', 0.06768777364128614], ['Sarcoidosis', 0.055430700067898735], ['SLE', 0.031336208106564574], ['Chagas', 0.020372344747213864]]",
+    "SEX": "M",
+    "PATHOLOGY": "Pericarditis",
+    "EVIDENCES": "['E_0', 'E_3', 'E_53', 'E_54_@_V_179', 'E_54_@_V_192', 'E_55_@_V_29', 'E_55_@_V_101', 'E_55_@_V_159', 'E_55_@_V_160', 'E_55_@_V_197', 'E_56_@_6', 'E_57_@_V_171', 'E_58_@_7', 'E_59_@_8', 'E_66', 'E_155', 'E_204_@_V_10', 'E_217']",
+    "INITIAL_EVIDENCE": "E_66",
+    "Participant No.": "train_26439",
+    "Processed Diagnosis": "Pericarditis"
+}

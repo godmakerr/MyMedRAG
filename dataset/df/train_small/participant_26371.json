@@ -1,0 +1,10 @@
+{
+    "AGE": 67,
+    "DIFFERENTIAL_DIAGNOSIS": "[['URTI', 0.17148834596442425], ['Bronchitis', 0.15523585625484898], ['Influenza', 0.13917812630015103], ['Pneumonia', 0.13891369921996813], ['Bronchiectasis', 0.1037928189976076], ['Tuberculosis', 0.09492534845574895], ['HIV (initial infection)', 0.06123665785375359], ['Chronic rhinosinusitis', 0.05684975547260664], ['Chagas', 0.041622176389718886], ['Acute rhinosinusitis', 0.036757215091171885]]",
+    "SEX": "F",
+    "PATHOLOGY": "URTI",
+    "EVIDENCES": "['E_41', 'E_49', 'E_50', 'E_53', 'E_54_@_V_154', 'E_54_@_V_183', 'E_55_@_V_89', 'E_55_@_V_108', 'E_55_@_V_124', 'E_55_@_V_166', 'E_55_@_V_167', 'E_56_@_5', 'E_57_@_V_123', 'E_58_@_7', 'E_59_@_2', 'E_77', 'E_91', 'E_97', 'E_181', 'E_201', 'E_204_@_V_10', 'E_222']",
+    "INITIAL_EVIDENCE": "E_50",
+    "Participant No.": "train_26371",
+    "Processed Diagnosis": "URTI"
+}

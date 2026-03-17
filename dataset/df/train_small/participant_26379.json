@@ -1,0 +1,10 @@
+{
+    "AGE": 43,
+    "DIFFERENTIAL_DIAGNOSIS": "[['SLE', 0.1446915820167911], ['Acute pulmonary edema', 0.09640324378059116], ['Scombroid food poisoning', 0.09580955544551387], ['Bronchiectasis', 0.09330522593537702], ['Pneumonia', 0.09098136258961523], ['Guillain-Barr\u00e9 syndrome', 0.08811818026300276], ['Atrial fibrillation', 0.08416879675205095], ['Pulmonary neoplasm', 0.07147000817900935], ['Anaphylaxis', 0.0621627124211194], ['Acute dystonic reactions', 0.062053737240253884], ['Myocarditis', 0.062053737240253884], ['Bronchitis', 0.0487818581364214]]",
+    "SEX": "F",
+    "PATHOLOGY": "SLE",
+    "EVIDENCES": "['E_3', 'E_53', 'E_54_@_V_161', 'E_55_@_V_34', 'E_55_@_V_35', 'E_55_@_V_74', 'E_55_@_V_75', 'E_55_@_V_92', 'E_56_@_7', 'E_57_@_V_123', 'E_58_@_5', 'E_59_@_3', 'E_66', 'E_102', 'E_129', 'E_130_@_V_157', 'E_131_@_V_10', 'E_132_@_4', 'E_133_@_V_108', 'E_133_@_V_109', 'E_133_@_V_122', 'E_135_@_V_12', 'E_136_@_0', 'E_141', 'E_204_@_V_10', 'E_206']",
+    "INITIAL_EVIDENCE": "E_206",
+    "Participant No.": "train_26379",
+    "Processed Diagnosis": "SLE"
+}

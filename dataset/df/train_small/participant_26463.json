@@ -1,0 +1,10 @@
+{
+    "AGE": 23,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Epiglottitis', 0.13215004445898532], ['Myasthenia gravis', 0.10740416437999474], ['Acute laryngitis', 0.10083510786744829], ['Pulmonary embolism', 0.08475546076710276], ['Acute pulmonary edema', 0.07939079012231327], ['Guillain-Barr\u00e9 syndrome', 0.07256780665121848], ['Atrial fibrillation', 0.06931537794514599], ['Myocarditis', 0.06845375583375864], ['Acute dystonic reactions', 0.051103002724250876], ['Anemia', 0.051103002724250876], ['Anaphylaxis', 0.051103002724250876], ['Chagas', 0.04853724593273053], ['Scombroid food poisoning', 0.03232556514248238], ['PSVT', 0.027297421876748326], ['SLE', 0.023658250849318874]]",
+    "SEX": "F",
+    "PATHOLOGY": "Epiglottitis",
+    "EVIDENCES": "['E_33', 'E_53', 'E_54_@_V_179', 'E_55_@_V_20', 'E_55_@_V_21', 'E_55_@_V_26', 'E_55_@_V_137', 'E_55_@_V_148', 'E_56_@_7', 'E_57_@_V_123', 'E_58_@_8', 'E_59_@_3', 'E_62', 'E_65', 'E_66', 'E_78', 'E_104', 'E_190', 'E_204_@_V_10', 'E_209', 'E_212']",
+    "INITIAL_EVIDENCE": "E_53",
+    "Participant No.": "train_26463",
+    "Processed Diagnosis": "Epiglottitis"
+}

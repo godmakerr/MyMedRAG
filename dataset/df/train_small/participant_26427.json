@@ -1,0 +1,10 @@
+{
+    "AGE": 26,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Acute pulmonary edema', 0.08192655797427002], ['Unstable angina', 0.07655875808698914], ['Stable angina', 0.06980724466446676], ['Myocarditis', 0.06835061495664305], ['Anaphylaxis', 0.06458372667977637], ['Possible NSTEMI / STEMI', 0.06407351210118647], ['Pericarditis', 0.06231609994354466], ['GERD', 0.06037934854806602], ['Panic attack', 0.05628978387459049], ['Boerhaave', 0.05585465451896738], ['Pulmonary embolism', 0.05423177645253591], ['Atrial fibrillation', 0.05385863572064164], ['Guillain-Barr\u00e9 syndrome', 0.04643336290476824], ['Chagas', 0.039872069220641446], ['Acute dystonic reactions', 0.03269885615288412], ['Myasthenia gravis', 0.03269885615288412], ['Sarcoidosis', 0.026777664421043068], ['Scombroid food poisoning', 0.020683892301951057], ['PSVT', 0.017466575811773306], ['SLE', 0.015138009512376784]]",
+    "SEX": "F",
+    "PATHOLOGY": "Acute pulmonary edema",
+    "EVIDENCES": "['E_5', 'E_8', 'E_53', 'E_54_@_V_161', 'E_54_@_V_183', 'E_55_@_V_29', 'E_55_@_V_159', 'E_55_@_V_160', 'E_55_@_V_171', 'E_55_@_V_172', 'E_56_@_8', 'E_57_@_V_127', 'E_57_@_V_128', 'E_57_@_V_177', 'E_57_@_V_178', 'E_58_@_3', 'E_59_@_1', 'E_66', 'E_104', 'E_105', 'E_106', 'E_151', 'E_152_@_V_34', 'E_152_@_V_35', 'E_152_@_V_119', 'E_152_@_V_120', 'E_152_@_V_172', 'E_175', 'E_204_@_V_10', 'E_217', 'E_218']",
+    "INITIAL_EVIDENCE": "E_175",
+    "Participant No.": "train_26427",
+    "Processed Diagnosis": "Acute pulmonary edema"
+}

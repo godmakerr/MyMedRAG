@@ -1,0 +1,10 @@
+{
+    "AGE": 89,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Acute COPD exacerbation / infection', 0.1244213435480098], ['Bronchitis', 0.11632363163469966], ['Bronchiectasis', 0.10722603647824498], ['Pneumonia', 0.10440123403202255], ['Pulmonary neoplasm', 0.09557986268881986], ['Guillain-Barr\u00e9 syndrome', 0.061660785224130904], ['Atrial fibrillation', 0.05889720014203215], ['Myocarditis', 0.058165080784891215], ['Pulmonary embolism', 0.052245886770235596], ['Acute dystonic reactions', 0.043422165016410906], ['Myasthenia gravis', 0.043422165016410906], ['Anemia', 0.043422165016410906], ['Tuberculosis', 0.041479860265274254], ['PSVT', 0.023194589242644673], ['Possible NSTEMI / STEMI', 0.01306899706988093], ['Chagas', 0.01306899706988093]]",
+    "SEX": "M",
+    "PATHOLOGY": "Acute COPD exacerbation / infection",
+    "EVIDENCES": "['E_66', 'E_72', 'E_77', 'E_79', 'E_123', 'E_125', 'E_198', 'E_199', 'E_204_@_V_10', 'E_214']",
+    "INITIAL_EVIDENCE": "E_214",
+    "Participant No.": "train_26453",
+    "Processed Diagnosis": "Acute COPD exacerbation / infection"
+}

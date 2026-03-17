@@ -1,0 +1,10 @@
+{
+    "AGE": 21,
+    "DIFFERENTIAL_DIAGNOSIS": "[['GERD', 0.22875214674315542], ['Bronchitis', 0.20557171551191528], ['Unstable angina', 0.13666018297073268], ['Pericarditis', 0.09914985848393514], ['Possible NSTEMI / STEMI', 0.09457795303186524], ['Tuberculosis', 0.0839270722202159], ['Stable angina', 0.07609561913590336], ['Pancreatic neoplasm', 0.07526545190227689]]",
+    "SEX": "M",
+    "PATHOLOGY": "GERD",
+    "EVIDENCES": "['E_53', 'E_54_@_V_112', 'E_54_@_V_161', 'E_54_@_V_180', 'E_54_@_V_181', 'E_54_@_V_193', 'E_55_@_V_29', 'E_55_@_V_104', 'E_55_@_V_197', 'E_56_@_5', 'E_57_@_V_29', 'E_57_@_V_101', 'E_58_@_2', 'E_59_@_1', 'E_79', 'E_98', 'E_201', 'E_204_@_V_10', 'E_215', 'E_217']",
+    "INITIAL_EVIDENCE": "E_215",
+    "Participant No.": "train_26451",
+    "Processed Diagnosis": "GERD"
+}

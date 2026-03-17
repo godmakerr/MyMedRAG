@@ -1,0 +1,10 @@
+{
+    "AGE": 24,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Pancreatic neoplasm', 0.18326812122290884], ['Bronchitis', 0.1721720931727515], ['Possible NSTEMI / STEMI', 0.1350993200356879], ['Unstable angina', 0.11748806634753015], ['Stable angina', 0.1033276042935031], ['Pericarditis', 0.09833242550645603], ['Scombroid food poisoning', 0.09601827488194832], ['Anaphylaxis', 0.0710558567980327], ['GERD', 0.023238237741181354]]",
+    "SEX": "M",
+    "PATHOLOGY": "Pancreatic neoplasm",
+    "EVIDENCES": "['E_53', 'E_54_@_V_161', 'E_54_@_V_182', 'E_55_@_V_104', 'E_55_@_V_187', 'E_55_@_V_197', 'E_56_@_6', 'E_57_@_V_123', 'E_58_@_1', 'E_59_@_5', 'E_69', 'E_70', 'E_79', 'E_129', 'E_130_@_V_107', 'E_131_@_V_10', 'E_132_@_0', 'E_133_@_V_197', 'E_134_@_0', 'E_135_@_V_12', 'E_136_@_0', 'E_188', 'E_201', 'E_204_@_V_10', 'E_223']",
+    "INITIAL_EVIDENCE": "E_53",
+    "Participant No.": "train_26413",
+    "Processed Diagnosis": "Pancreatic neoplasm"
+}

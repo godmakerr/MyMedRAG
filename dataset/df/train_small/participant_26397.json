@@ -1,0 +1,10 @@
+{
+    "AGE": 19,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Viral pharyngitis', 0.15517052089516742], ['URTI', 0.14659733051877366], ['Tuberculosis', 0.14140362319252633], ['Bronchitis', 0.13448587802696244], ['Acute laryngitis', 0.10091403645992963], ['Influenza', 0.09773620461250324], ['Possible NSTEMI / STEMI', 0.0824829738025215], ['Epiglottitis', 0.07513506782654807], ['Unstable angina', 0.06607436466506776]]",
+    "SEX": "M",
+    "PATHOLOGY": "Viral pharyngitis",
+    "EVIDENCES": "['E_41', 'E_45', 'E_48', 'E_53', 'E_54_@_V_161', 'E_54_@_V_181', 'E_55_@_V_20', 'E_55_@_V_21', 'E_55_@_V_33', 'E_55_@_V_137', 'E_55_@_V_148', 'E_56_@_3', 'E_57_@_V_123', 'E_58_@_9', 'E_59_@_1', 'E_79', 'E_91', 'E_181', 'E_201', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_45",
+    "Participant No.": "train_26397",
+    "Processed Diagnosis": "Viral pharyngitis"
+}

@@ -1,0 +1,10 @@
+{
+    "AGE": 37,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchospasm / acute asthma exacerbation', 0.13223615823316834], ['Pulmonary embolism', 0.09550710359757417], ['Acute pulmonary edema', 0.08946189836358122], ['Anaphylaxis', 0.08946189836358122], ['Guillain-Barr\u00e9 syndrome', 0.08177338622146663], ['Atrial fibrillation', 0.07810837109957186], ['Myocarditis', 0.0771374480285457], ['Acute COPD exacerbation / infection', 0.07293281765678758], ['Acute dystonic reactions', 0.05758566741491367], ['Myasthenia gravis', 0.05758566741491367], ['Anemia', 0.05758566741491367], ['Scombroid food poisoning', 0.05320426830179831], ['PSVT', 0.03076023273937786], ['SLE', 0.02665941514980609]]",
+    "SEX": "F",
+    "PATHOLOGY": "Bronchospasm / acute asthma exacerbation",
+    "EVIDENCES": "['E_66', 'E_101', 'E_116', 'E_119', 'E_124', 'E_204_@_V_10', 'E_214', 'E_222', 'E_226']",
+    "INITIAL_EVIDENCE": "E_66",
+    "Participant No.": "train_26414",
+    "Processed Diagnosis": "Bronchospasm / acute asthma exacerbation"
+}

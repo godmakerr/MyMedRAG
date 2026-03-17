@@ -1,0 +1,10 @@
+{
+    "AGE": 66,
+    "DIFFERENTIAL_DIAGNOSIS": "[['PSVT', 0.26829749764992], ['Atrial fibrillation', 0.2487347133459843], ['Pulmonary embolism', 0.18568355309252121], ['Guillain-Barr\u00e9 syndrome', 0.15898265500739786], ['Panic attack', 0.13830158090417666]]",
+    "SEX": "F",
+    "PATHOLOGY": "PSVT",
+    "EVIDENCES": "['E_16', 'E_35', 'E_54_@_V_11', 'E_55_@_V_123', 'E_56_@_0', 'E_57_@_V_123', 'E_58_@_0', 'E_59_@_0', 'E_60', 'E_66', 'E_76', 'E_155', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_155",
+    "Participant No.": "train_26410",
+    "Processed Diagnosis": "PSVT"
+}

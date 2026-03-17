@@ -1,0 +1,10 @@
+{
+    "AGE": 36,
+    "DIFFERENTIAL_DIAGNOSIS": "[['URTI', 0.45198122820380887], ['Influenza', 0.2773038182710836], ['HIV (initial infection)', 0.15642318961100982], ['Chagas', 0.1142917639140977]]",
+    "SEX": "F",
+    "PATHOLOGY": "URTI",
+    "EVIDENCES": "['E_48', 'E_49', 'E_50', 'E_53', 'E_54_@_V_154', 'E_55_@_V_62', 'E_55_@_V_89', 'E_55_@_V_124', 'E_55_@_V_166', 'E_55_@_V_167', 'E_56_@_4', 'E_57_@_V_123', 'E_58_@_3', 'E_59_@_1', 'E_91', 'E_97', 'E_144', 'E_181', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_97",
+    "Participant No.": "train_26461",
+    "Processed Diagnosis": "URTI"
+}

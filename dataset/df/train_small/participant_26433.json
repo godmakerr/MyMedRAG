@@ -1,0 +1,10 @@
+{
+    "AGE": 49,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Influenza', 0.20773938016868396], ['URTI', 0.16524979837325457], ['Chagas', 0.14041918962893268], ['Acute laryngitis', 0.12695707752403243], ['Viral pharyngitis', 0.1210005993049328], ['Scombroid food poisoning', 0.11593305495111327], ['Anemia', 0.06484103093170127], ['Anaphylaxis', 0.057859869117349284]]",
+    "SEX": "M",
+    "PATHOLOGY": "Influenza",
+    "EVIDENCES": "['E_50', 'E_53', 'E_54_@_V_161', 'E_55_@_V_25', 'E_55_@_V_26', 'E_55_@_V_89', 'E_55_@_V_148', 'E_55_@_V_167', 'E_56_@_3', 'E_57_@_V_123', 'E_58_@_4', 'E_59_@_1', 'E_79', 'E_88', 'E_91', 'E_97', 'E_129', 'E_130_@_V_156', 'E_131_@_V_10', 'E_132_@_2', 'E_133_@_V_53', 'E_133_@_V_54', 'E_134_@_0', 'E_135_@_V_12', 'E_136_@_0', 'E_144', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_97",
+    "Participant No.": "train_26433",
+    "Processed Diagnosis": "Influenza"
+}

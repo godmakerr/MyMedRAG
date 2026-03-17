@@ -1,0 +1,10 @@
+{
+    "AGE": 35,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Anemia', 0.13262877668108403], ['Atrial fibrillation', 0.11174381309462508], ['Anaphylaxis', 0.08153248862891309], ['Myocarditis', 0.07758161486525916], ['Acute pulmonary edema', 0.07552010875272075], ['Panic attack', 0.07437498059760934], ['Guillain-Barr\u00e9 syndrome', 0.06902977841388369], ['Chagas', 0.06330577689780625], ['Cluster headache', 0.060468040529717736], ['HIV (initial infection)', 0.05983994616216339], ['PSVT', 0.056063180534741984], ['Acute dystonic reactions', 0.04861148651348828], ['Myasthenia gravis', 0.04861148651348828], ['Scombroid food poisoning', 0.04068852181449901]]",
+    "SEX": "F",
+    "PATHOLOGY": "Anemia",
+    "EVIDENCES": "['E_7', 'E_24', 'E_53', 'E_54_@_V_161', 'E_54_@_V_182', 'E_55_@_V_62', 'E_55_@_V_89', 'E_55_@_V_166', 'E_55_@_V_167', 'E_56_@_4', 'E_57_@_V_123', 'E_58_@_8', 'E_59_@_3', 'E_66', 'E_76', 'E_82', 'E_88', 'E_113', 'E_140', 'E_145', 'E_146', 'E_204_@_V_0', 'E_208']",
+    "INITIAL_EVIDENCE": "E_76",
+    "Participant No.": "train_26431",
+    "Processed Diagnosis": "Anemia"
+}

@@ -1,0 +1,10 @@
+{
+    "AGE": 5,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Inguinal hernia', 1.0]]",
+    "SEX": "F",
+    "PATHOLOGY": "Inguinal hernia",
+    "EVIDENCES": "['E_30', 'E_53', 'E_54_@_V_183', 'E_55_@_V_88', 'E_55_@_V_100', 'E_55_@_V_168', 'E_55_@_V_169', 'E_56_@_5', 'E_57_@_V_123', 'E_58_@_1', 'E_59_@_4', 'E_130_@_V_11', 'E_131_@_V_10', 'E_132_@_0', 'E_133_@_V_123', 'E_134_@_0', 'E_135_@_V_10', 'E_136_@_0', 'E_160', 'E_204_@_V_10', 'E_221']",
+    "INITIAL_EVIDENCE": "E_53",
+    "Participant No.": "train_26395",
+    "Processed Diagnosis": "Inguinal hernia"
+}

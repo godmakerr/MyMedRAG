@@ -1,0 +1,10 @@
+{
+    "AGE": 33,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Pancreatic neoplasm', 0.5701459954503438], ['Anemia', 0.42985400454965617]]",
+    "SEX": "M",
+    "PATHOLOGY": "Pancreatic neoplasm",
+    "EVIDENCES": "['E_6', 'E_51', 'E_53', 'E_54_@_V_182', 'E_55_@_V_104', 'E_56_@_4', 'E_57_@_V_123', 'E_58_@_3', 'E_59_@_5', 'E_69', 'E_70', 'E_89', 'E_130_@_V_11', 'E_131_@_V_10', 'E_132_@_0', 'E_133_@_V_123', 'E_134_@_0', 'E_135_@_V_10', 'E_136_@_0', 'E_188', 'E_204_@_V_10', 'E_223']",
+    "INITIAL_EVIDENCE": "E_188",
+    "Participant No.": "train_26412",
+    "Processed Diagnosis": "Pancreatic neoplasm"
+}

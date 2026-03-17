@@ -1,0 +1,10 @@
+{
+    "AGE": 70,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Possible NSTEMI / STEMI', 0.15539512290981608], ['PSVT', 0.11718404115290589], ['Pericarditis', 0.10928278262863397], ['GERD', 0.10077053301961375], ['Myocarditis', 0.09887185319484809], ['Acute dystonic reactions', 0.07930332838417534], ['Myasthenia gravis', 0.07930332838417534], ['Panic attack', 0.07503109520522985], ['Guillain-Barr\u00e9 syndrome', 0.06700961654486237], ['Sarcoidosis', 0.06494288072385443], ['Stable angina', 0.029037078585685265], ['Chagas', 0.023868339266199457]]",
+    "SEX": "F",
+    "PATHOLOGY": "Pericarditis",
+    "EVIDENCES": "['E_0', 'E_3', 'E_53', 'E_54_@_V_179', 'E_54_@_V_192', 'E_55_@_V_29', 'E_55_@_V_101', 'E_55_@_V_159', 'E_55_@_V_160', 'E_56_@_8', 'E_57_@_V_39', 'E_57_@_V_170', 'E_58_@_6', 'E_59_@_9', 'E_66', 'E_155', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_53",
+    "Participant No.": "train_26385",
+    "Processed Diagnosis": "Pericarditis"
+}

@@ -1,0 +1,10 @@
+{
+    "AGE": 31,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Possible NSTEMI / STEMI', 0.22251298484215573], ['Atrial fibrillation', 0.15265966806455256], ['SLE', 0.13170157874730395], ['Acute dystonic reactions', 0.11254886959081176], ['Anemia', 0.11254886959081176], ['Sarcoidosis', 0.09420504214106441], ['Myocarditis', 0.07982892557470414], ['PSVT', 0.06011963703090905], ['Chagas', 0.03387442441768668]]",
+    "SEX": "M",
+    "PATHOLOGY": "Sarcoidosis",
+    "EVIDENCES": "['E_43', 'E_53', 'E_54_@_V_181', 'E_55_@_V_64', 'E_55_@_V_67', 'E_55_@_V_69', 'E_55_@_V_194', 'E_55_@_V_195', 'E_56_@_5', 'E_57_@_V_123', 'E_58_@_8', 'E_59_@_3', 'E_66', 'E_70', 'E_74', 'E_130_@_V_11', 'E_131_@_V_10', 'E_132_@_0', 'E_133_@_V_123', 'E_134_@_0', 'E_135_@_V_10', 'E_136_@_0', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_43",
+    "Participant No.": "train_26392",
+    "Processed Diagnosis": "Sarcoidosis"
+}

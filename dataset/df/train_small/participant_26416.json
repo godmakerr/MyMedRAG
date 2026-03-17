@@ -1,0 +1,10 @@
+{
+    "AGE": 56,
+    "DIFFERENTIAL_DIAGNOSIS": "[['Bronchitis', 0.10802317216676503], ['Bronchiectasis', 0.10513889572878314], ['Pneumonia', 0.09943669284960684], ['Pulmonary neoplasm', 0.09128846461013071], ['Acute COPD exacerbation / infection', 0.08103859776477448], ['Tuberculosis', 0.07334300804257789], ['Pulmonary embolism', 0.0729783691237727], ['Guillain-Barr\u00e9 syndrome', 0.0580008788894345], ['Bronchospasm / acute asthma exacerbation', 0.05628560344295144], ['Atrial fibrillation', 0.055401327763628716], ['Myocarditis', 0.05471266371220947], ['Acute dystonic reactions', 0.040844820984346886], ['Myasthenia gravis', 0.040844820984346886], ['Anemia', 0.040844820984346886], ['PSVT', 0.021817862952324667]]",
+    "SEX": "F",
+    "PATHOLOGY": "Bronchiectasis",
+    "EVIDENCES": "['E_18', 'E_20', 'E_45', 'E_47', 'E_66', 'E_77', 'E_123', 'E_124', 'E_201', 'E_204_@_V_10']",
+    "INITIAL_EVIDENCE": "E_77",
+    "Participant No.": "train_26416",
+    "Processed Diagnosis": "Bronchiectasis"
+}
